@@ -1,0 +1,946 @@
+route,location,url,avg_stars,route_type,rating,pitches,length,area_latitude,area_longitude,climbing_rating_complete,protection
+Brownies In The Basin,Cob Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756787/brownies-in-the-basin,2.4,"Trad, Sport",5.9+,2.0,,40.0005,-105.3895,9.35,G
+Night Vision,Cob Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751810/night-vision,2.5,"Trad, Sport",5.10b PG13,3.0,,40.0005,-105.3895,10.2,PG13
+Corn on the Cob,Cob Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764739/corn-on-the-cob,1.9,"Trad, Sport",5.10b/c,1.0,70.0,40.0005,-105.3895,10.25,G
+Thunder Road,Cob Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764868/thunder-road,2.6,Sport,5.12-,1.0,70.0,40.0005,-105.3895,12.15,G
+Maid Marian,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748041/maid-marian,1.1,Sport,5.9,1.0,,40.0014,-105.3959,9.0,G
+The Prince and The Pauper,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106466173/the-prince-and-the-pauper,1.8,Sport,5.10a,1.0,60.0,40.0014,-105.3959,10.1,G
+Boyz From The Hood,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106050176/boyz-from-the-hood,1.4,Sport,5.10b,1.0,60.0,40.0014,-105.3959,10.2,G
+Men in Tights,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760656/men-in-tights,2.5,Sport,5.10b,1.0,60.0,40.0014,-105.3959,10.2,G
+Tony Bubb's Little Stick,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762816/tony-bubbs-little-stick,1.7,Sport,5.10c,1.0,70.0,40.0014,-105.3959,10.3,G
+Tuckered and Fried,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748038/tuckered-and-fried,2.4,Sport,5.10c,1.0,,40.0014,-105.3959,10.3,G
+Fatman and Robin,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762801/fatman-and-robin,2.2,Sport,5.10d,1.0,70.0,40.0014,-105.3959,10.4,G
+Merry Men,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748026/merry-men,2.4,Sport,5.11a,1.0,,40.0014,-105.3959,11.1,G
+Sheriff's Tariff,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748035/sheriffs-tariff,2.7,Sport,5.11a/b,1.0,,40.0014,-105.3959,11.15,G
+Robbin' the Hood,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748032/robbin-the-hood,2.8,Sport,5.11c,1.0,,40.0014,-105.3959,11.3,G
+Prince of Thieves,Sherwood Forest > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748029/prince-of-thieves,3.1,Sport,5.12b,1.0,,40.0014,-105.3959,12.2,G
+Thanks Bill Left,Bummers Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748157/thanks-bill-left,1.5,Sport,5.11a R,2.0,,40.0095,-105.3434,11.1,R
+Suspended Man,Bummers Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748151/suspended-man,1.0,Sport,5.12b,2.0,,40.0095,-105.3434,12.2,G
+Moby Dike,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764400/moby-dike,1.5,Sport,5.10b,1.0,60.0,40.0018,-105.3869,10.2,G
+Reveille,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759228/reveille,2.0,"Trad, Sport",5.10d,1.0,90.0,40.0018,-105.3869,10.4,G
+Electricity,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761691/electricity,1.3,"Trad, Sport",5.12a,2.0,150.0,40.0018,-105.3869,12.1,G
+Rise and Shine,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759225/rise-and-shine,3.2,Sport,5.12a,1.0,90.0,40.0018,-105.3869,12.1,G
+Return To Sender,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761676/return-to-sender,2.1,Sport,5.12a/b,2.0,130.0,40.0018,-105.3869,12.15,G
+Peach Cobbler,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107926712/peach-cobbler,2.7,Sport,5.12b,1.0,50.0,40.0018,-105.3869,12.2,G
+Welcome Home,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763506/welcome-home,2.0,Sport,5.12b/c,1.0,40.0,40.0018,-105.3869,12.25,G
+The Spins,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763530/the-spins,1.5,"Trad, Sport",5.12c,1.0,60.0,40.0018,-105.3869,12.3,G
+The Jitters,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759231/the-jitters,2.0,Sport,5.12c,1.0,80.0,40.0018,-105.3869,12.3,G
+The Buzz,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753976/the-buzz,2.7,Sport,5.12d,1.0,,40.0018,-105.3869,12.4,G
+The Lorax,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759219/the-lorax,3.8,Sport,5.13b,1.0,90.0,40.0018,-105.3869,13.2,G
+Speaks For The Trees,Bitty Buttress > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117259145/speaks-for-the-trees,4.0,Sport,5.14c,1.0,80.0,40.0018,-105.3869,14.3,G
+Last Laugh,Happy Hour Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756565/last-laugh,2.2,"Trad, Sport, TR",5.11a,1.0,100.0,40.0033,-105.3939,11.1,G
+Qs,The Boulderado > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748105/qs,2.5,"Sport, TR",5.9+,1.0,,39.99738,-105.41615,9.35,G
+Jazz on the Mezzanine,The Boulderado > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762738/jazz-on-the-mezzanine,2.6,Sport,5.12b,1.0,40.0,39.99738,-105.41615,12.2,G
+That's Weak,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748274/thats-weak,2.1,"Sport, TR",5.10a,1.0,,39.997,-105.4139,10.1,G
+The Politician,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111972843/the-politician,2.6,Sport,5.10a,1.0,100.0,39.997,-105.4139,10.1,G
+Climb-Eye-Knight,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764010/climb-eye-knight,2.2,Sport,5.10b,1.0,90.0,39.997,-105.4139,10.2,G
+Monkey's Sister,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106546321/monkeys-sister,1.6,Sport,5.10,1.0,70.0,39.997,-105.4139,10.0,G
+Monkey's Uncle,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757210/monkeys-uncle,2.1,Sport,5.10d,1.0,,39.997,-105.4139,10.4,G
+Pin Cushion,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760398/pin-cushion,2.0,Sport,5.11c,1.0,50.0,39.997,-105.4139,11.3,G
+Trash It and Move On,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758443/trash-it-and-move-on,2.6,"Trad, Sport",5.11c,2.0,170.0,39.997,-105.4139,11.3,G
+The Bureau (Pitch 1),Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106180614/the-bureau-pitch-1,2.9,Sport,5.11d,1.0,50.0,39.997,-105.4139,11.4,G
+Fear of Sunlight,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751471/fear-of-sunlight,1.6,Sport,5.11d,1.0,70.0,39.997,-105.4139,11.4,G
+Blood Doll,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760515/blood-doll,2.0,Sport,5.12a,1.0,80.0,39.997,-105.4139,12.1,G
+Le Stat,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760338/le-stat,2.5,Sport,5.12a,2.0,140.0,39.997,-105.4139,12.1,G
+"The Good, The Bad, and The Jacked",Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758419/the-good-the-bad-and-the-jacked,3.5,Sport,5.12a,2.0,150.0,39.997,-105.4139,12.1,G
+A.C.E.,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764058/ace,1.7,Sport,5.12a,1.0,80.0,39.997,-105.4139,12.1,G
+Wanker,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757207/wanker,3.0,Sport,5.12a/b,1.0,,39.997,-105.4139,12.15,G
+Transylverlina,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119242027/transylverlina,1.5,Sport,5.12b,4.0,,39.997,-105.4139,12.2,G
+3Ts,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121185106/3ts,4.0,Sport,5.12b,2.0,150.0,39.997,-105.4139,12.2,G
+Wanker (upper),Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121727595/wanker-upper,3.0,Sport,5.12b,1.0,90.0,39.997,-105.4139,12.2,G
+Heart of the Narrows,Vampire Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764007/heart-of-the-narrows,2.3,Sport,5.12b,4.0,350.0,39.997,-105.4139,12.2,G
+Wimps,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111216924/wimps,1.8,Sport,5.8+,1.0,45.0,39.98709,-105.43728,8.35,G
+Gimps,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111216940/gimps,1.9,Sport,5.9-,1.0,45.0,39.98709,-105.43728,9.15,G
+Arête,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748331/arete,2.4,"Sport, TR",5.10b,1.0,50.0,39.98709,-105.43728,10.2,G
+Antagonism,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748340/antagonism,2.4,"Sport, TR",5.12b,1.0,50.0,39.98709,-105.43728,12.2,G
+Gyro Captain,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761721/gyro-captain,2.2,Sport,5.12b,1.0,30.0,39.98709,-105.43728,12.2,G
+Mr. Spiffy,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759582/mr-spiffy,2.5,Sport,5.13a,1.0,30.0,39.98709,-105.43728,13.1,G
+Caddis/Argus,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764013/caddisargus,1.8,"Sport, Boulder",5.13c V10,1.0,40.0,39.98709,-105.43728,13.3,G
+Mr. Stiffy,Nip and Tuck > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111030257/mr-stiffy,3.0,Sport,5.14a,1.0,40.0,39.98709,-105.43728,14.1,G
+Unknown,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105992126/unknown,0.7,Sport,5.9,1.0,35.0,39.9871,-105.4384,9.0,G
+Contortionist's Pleasure,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105992111/contortionists-pleasure,0.8,"Trad, Sport",5.9+,1.0,30.0,39.9871,-105.4384,9.35,G
+Unknown Variation,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105992133/unknown-variation,1.3,Sport,5.10b,1.0,35.0,39.9871,-105.4384,10.2,G
+Québec Connection,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105850549/quebec-connection,1.6,"Trad, Sport",5.11a,1.0,50.0,39.9871,-105.4384,11.1,G
+Magie Noire,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105852519/magie-noire,2.2,Sport,5.11b,1.0,40.0,39.9871,-105.4384,11.2,G
+El Gallito,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105993425/el-gallito,2.2,Sport,5.11c,1.0,40.0,39.9871,-105.4384,11.3,G
+Turkey Neck Direct,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106209571/turkey-neck-direct,2.3,"Sport, TR",5.11+,1.0,50.0,39.9871,-105.4384,11.35,G
+Warlock Pinchers,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106209610/warlock-pinchers,1.9,"Sport, TR",5.12a,1.0,42.0,39.9871,-105.4384,12.1,G
+Pinche Guey,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106209595/pinche-guey,2.8,Sport,5.12b,1.0,45.0,39.9871,-105.4384,12.2,G
+Warlock Pinche,Stepping Stones > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107520576/warlock-pinche,3.0,Sport,5.12b,1.0,60.0,39.9871,-105.4384,12.2,G
+Gluten Free,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107578406/gluten-free,2.2,"Trad, Sport",5.10,1.0,70.0,39.9787,-105.4551,10.0,G
+Beetle Bailey,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106522797/beetle-bailey,2.6,Sport,5.10,1.0,70.0,39.9787,-105.4551,10.0,G
+The Big Splash,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105955297/the-big-splash,1.4,Sport,5.10,2.0,120.0,39.9787,-105.4551,10.0,G
+Water World,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105838180/water-world,2.5,"Trad, Sport",5.11-,1.0,90.0,39.9787,-105.4551,11.15,G
+Polyester Leisure Suit,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757729/polyester-leisure-suit,1.7,"Trad, Sport, TR",5.11b,1.0,90.0,39.9787,-105.4551,11.2,G
+Storming the Castle,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106118679/storming-the-castle,2.7,Sport,5.11,1.0,50.0,39.9787,-105.4551,11.0,G
+Subterranean Homesick Blues,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105834643/subterranean-homesick-blues,2.4,"Trad, Sport",5.12-,2.0,180.0,39.9787,-105.4551,12.15,G
+Nuclear Winter,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113833421/nuclear-winter,2.5,Sport,5.12b/c,1.0,60.0,39.9787,-105.4551,12.25,G
+Close To the Edge,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105997014/close-to-the-edge,2.3,Sport,5.12b/c,1.0,,39.9787,-105.4551,12.25,G
+Tourist Extravagance,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106332952/tourist-extravagance,2.3,Sport,5.12d,1.0,50.0,39.9787,-105.4551,12.4,G
+Wild Times,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/118870036/wild-times,3.0,Sport,5.13a/b,,50.0,39.9787,-105.4551,13.15,G
+Alien Sex Toy,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113829263/alien-sex-toy,3.3,Sport,5.13b,1.0,60.0,39.9787,-105.4551,13.2,G
+Crank It (aka Slabio),Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753658/crank-it-aka-slabio,3.0,Sport,5.13c,1.0,,39.9787,-105.4551,13.3,G
+Deadline,Castle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759816/deadline,3.4,"Trad, Sport",5.13d,1.0,40.0,39.9787,-105.4551,13.4,G
+Frictionary,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749821/frictionary,1.7,"Sport, TR",5.7,1.0,,39.97305,-105.46306,7.0,G
+The Touch,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749824/the-touch,2.2,"Trad, Sport",5.8,1.0,,39.97305,-105.46306,8.0,G
+Monkey Bob,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764040/monkey-bob,2.0,"Sport, TR",5.8,1.0,,39.97305,-105.46306,8.0,G
+Choss Temple Pilots,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752299/choss-temple-pilots,2.1,Sport,5.8,1.0,,39.97305,-105.46306,8.0,G
+Vitamin V,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764184/vitamin-v,1.8,Sport,5.9,1.0,50.0,39.97305,-105.46306,9.0,G
+Chasing Sticks,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755278/chasing-sticks,1.9,Sport,5.9,1.0,,39.97305,-105.46306,9.0,G
+Dutch Oven,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752227/dutch-oven,1.8,Sport,5.9,1.0,,39.97305,-105.46306,9.0,G
+Double Down,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764166/double-down,1.7,Sport,5.9+,1.0,50.0,39.97305,-105.46306,9.35,G
+Dirty Dave's Dumpster Dive,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764181/dirty-daves-dumpster-dive,1.8,Sport,5.10a,1.0,50.0,39.97305,-105.46306,10.1,G
+Wavy Gravy,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764187/wavy-gravy,1.8,Sport,5.10a,1.0,50.0,39.97305,-105.46306,10.1,G
+Killer Fish Taco,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754729/killer-fish-taco,2.3,Sport,5.11a,1.0,,39.97305,-105.46306,11.1,G
+The Fix,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754732/the-fix,2.4,Sport,5.11a,1.0,,39.97305,-105.46306,11.1,G
+Platinum Curl,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752233/platinum-curl,1.9,Sport,5.11b,1.0,,39.97305,-105.46306,11.2,G
+Hood Surfing In Socks,South Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752230/hood-surfing-in-socks,1.7,Sport,5.11c,1.0,,39.97305,-105.46306,11.3,G
+Wise Crack,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758590/wise-crack,1.7,Sport,5.8,1.0,60.0,39.973,-105.4634,8.0,G
+The Other One,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753604/the-other-one,2.7,Sport,5.11a,1.0,,39.973,-105.4634,11.1,G
+Pocket Fisherman,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105868232/pocket-fisherman,1.7,Sport,5.11a/b,1.0,65.0,39.973,-105.4634,11.15,G
+Space Goats,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107281525/space-goats,2.8,Sport,5.11c/d,1.0,70.0,39.973,-105.4634,11.35,G
+Mercy Drilling,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758020/mercy-drilling,2.6,"Trad, Sport",5.12a,1.0,60.0,39.973,-105.4634,12.1,G
+Impeachara,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112560329/impeachara,2.4,Sport,5.12a/b,1.0,50.0,39.973,-105.4634,12.15,G
+Furious Howard Brown,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753808/furious-howard-brown,3.1,Sport,5.12a/b,1.0,,39.973,-105.4634,12.15,G
+Curve of Binding Energy,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753811/curve-of-binding-energy,2.4,Sport,5.12a/b,1.0,,39.973,-105.4634,12.15,G
+American Beauty,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757510/american-beauty,3.1,Sport,5.12b,1.0,70.0,39.973,-105.4634,12.2,G
+Shakedown Street,West Face > Surprising Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106827742/shakedown-street,2.1,Sport,5.12c,1.0,60.0,39.973,-105.4634,12.3,G
+Percocet Arete,Forbidden Fruit Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105868207/percocet-arete,0.9,Sport,5.10,1.0,40.0,39.9726,-105.4648,10.0,G
+King Of The Highway,Forbidden Fruit Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105868196/king-of-the-highway,1.0,Sport,5.11b,1.0,40.0,39.9726,-105.4648,11.2,G
+Knocking on Heaven's Door,Forbidden Fruit Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111874011/knocking-on-heavens-door,1.0,Sport,5.11c,1.0,40.0,39.9726,-105.4648,11.3,G
+High Test,Forbidden Fruit Crag > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106359479/high-test,2.2,Sport,5.12-,1.0,40.0,39.9726,-105.4648,12.15,G
+Owl JuJu,Owl Prow > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105868274/owl-juju,2.0,Sport,5.11a,1.0,60.0,39.9728,-105.4636,11.1,G
+Owl On The Prowl,Owl Prow > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755044/owl-on-the-prowl,2.7,Sport,5.11b,1.0,,39.9728,-105.4636,11.2,G
+Linking Logs,Owl Prow > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105835496/linking-logs,2.5,Sport,5.11c,1.0,70.0,39.9728,-105.4636,11.3,G
+Ground Zero,Owl Prow > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755041/ground-zero,2.2,Sport,5.11c/d,1.0,,39.9728,-105.4636,11.35,G
+Chicken Hawk,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748876/chicken-hawk,2.0,"Sport, TR",5.9,1.0,,39.97234,-105.4631,9.0,G
+Wessel in the Chicken Coop,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751024/wessel-in-the-chicken-coop,1.5,Sport,5.9,1.0,,39.97234,-105.4631,9.0,G
+Mommy Blocker,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752284/mommy-blocker,1.4,Sport,5.10a,1.0,,39.97234,-105.4631,10.1,G
+Chicken Delight,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752269/chicken-delight,2.0,Sport,5.10b,1.0,,39.97234,-105.4631,10.2,G
+Rubber Chicken,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752272/rubber-chicken,2.4,Sport,5.10c,1.0,,39.97234,-105.4631,10.3,G
+Daddy Blocker,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752281/daddy-blocker,1.4,Sport,5.11a,1.0,,39.97234,-105.4631,11.1,G
+Chicken Lips,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752275/chicken-lips,2.2,Sport,5.11b,1.0,,39.97234,-105.4631,11.2,G
+Alfa Chick,Chicken Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752278/alfa-chick,2.1,Sport,5.11+,1.0,,39.97234,-105.4631,11.35,G
+Infra-Red Riding Hood,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752368/infra-red-riding-hood,1.8,Sport,5.10a,1.0,,39.97207,-105.46336,10.1,G
+Mother Goose,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752371/mother-goose,1.8,Sport,5.10b/c,1.0,,39.97207,-105.46336,10.25,G
+Infa-Goose,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/114286271/infa-goose,1.4,Sport,5.10b/c,1.0,60.0,39.97207,-105.46336,10.25,G
+The Big Dipper,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748885/the-big-dipper,2.9,Sport,5.10d,1.0,,39.97207,-105.46336,10.4,G
+Three Little Pigs,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106002738/three-little-pigs,1.9,Sport,5.11a,1.0,65.0,39.97207,-105.46336,11.1,G
+Pump Dipper,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119611481/pump-dipper,1.0,Sport,5.11-,1.0,45.0,39.97207,-105.46336,11.15,G
+Hee Haw,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105868187/hee-haw,1.5,Sport,5.11-,1.0,45.0,39.97207,-105.46336,11.15,G
+Butt Luscious,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749533/butt-luscious,2.7,Sport,5.11+,1.0,,39.97207,-105.46336,11.35,G
+Leave it to Beaver,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106555935/leave-it-to-beaver,2.0,Sport,5.11c/d,1.0,50.0,39.97207,-105.46336,11.35,G
+Beaver Fever,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753559/beaver-fever,1.6,Sport,5.11d,1.0,,39.97207,-105.46336,11.4,G
+Jolly Jug,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764235/jolly-jug,2.2,Sport,5.12a/b,1.0,50.0,39.97207,-105.46336,12.15,G
+Go Dog Go,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764238/go-dog-go,2.7,Sport,5.12b,1.0,50.0,39.97207,-105.46336,12.2,G
+No Doze,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748888/no-doze,2.5,Sport,5.12b,1.0,,39.97207,-105.46336,12.2,G
+Hair Shirt,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106159340/hair-shirt,2.0,Sport,5.12,1.0,60.0,39.97207,-105.46336,12.0,G
+Mutant Overload,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108233340/mutant-overload,2.7,Sport,5.12c,1.0,60.0,39.97207,-105.46336,12.3,G
+Pump Truck,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106220667/pump-truck,2.2,Sport,5.12+,1.0,,39.97207,-105.46336,12.35,G
+Salad Shooter,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106756865/salad-shooter,2.3,Sport,5.12d,1.0,30.0,39.97207,-105.46336,12.4,G
+Beaver Overload,Upper Wall > The Clock Tower > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113434247/beaver-overload,3.0,Sport,5.12d,1.0,60.0,39.97207,-105.46336,12.4,G
+Geek in the Creek,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751867/geek-in-the-creek,1.4,Sport,5.8,1.0,,39.97313,-105.46275,8.0,G
+Hair of the Dog,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751864/hair-of-the-dog,1.3,Sport,5.10a,1.0,,39.97313,-105.46275,10.1,G
+Welcome Wagon,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751660/welcome-wagon,0.9,Sport,5.10,1.0,,39.97313,-105.46275,10.0,G
+Bone Home,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752224/bone-home,1.8,Sport,5.10+,1.0,,39.97313,-105.46275,10.35,G
+Flying Machines,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748867/flying-machines,1.9,Sport,5.11a,1.0,,39.97313,-105.46275,11.1,G
+Absolute Boulder Canyon,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751666/absolute-boulder-canyon,1.1,Sport,5.11-,1.0,,39.97313,-105.46275,11.15,G
+Dyno Monkey,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748864/dyno-monkey,1.7,"Sport, TR",5.11c,1.0,,39.97313,-105.46275,11.3,G
+Rubberneck,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105835508/rubberneck,2.0,Sport,5.12-,1.0,50.0,39.97313,-105.46275,12.15,G
+Flying Rubber Monkey Canyon,The Visor > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113401795/flying-rubber-monkey-canyon,2.3,Sport,5.12c,1.0,40.0,39.97313,-105.46275,12.3,G
+Warm Up,Overhung Wall > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106066531/warm-up,1.9,Sport,5.11,1.0,40.0,39.9726,-105.4648,11.0,G
+Warf Factor,Overhung Wall > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105852788/warf-factor,2.7,Sport,5.12a,1.0,50.0,39.9726,-105.4648,12.1,G
+[Redacted],Overhung Wall > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105852778/redacted,2.3,Sport,5.12b,1.0,45.0,39.9726,-105.4648,12.2,G
+Eternal Vigilance,Overhung Wall > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106826463/eternal-vigilance,2.4,Sport,5.12b,1.0,50.0,39.9726,-105.4648,12.2,G
+Invisible Touch,Overhung Wall > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106066539/invisible-touch,2.3,Sport,5.12b/c,1.0,50.0,39.9726,-105.4648,12.25,G
+Room With A View,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121338123/room-with-a-view,3.3,Sport,5.10b/c,1.0,60.0,39.9726,-105.4648,10.25,G
+The Appetizer,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121347606/the-appetizer,2.0,Sport,5.10d,1.0,30.0,39.9726,-105.4648,10.4,G
+Ride the Wind,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107305751/ride-the-wind,2.0,Sport,5.10d,1.0,50.0,39.9726,-105.4648,10.4,G
+Rain Dance,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119307077/rain-dance,2.6,Sport,5.10d,1.0,50.0,39.9726,-105.4648,10.4,G
+Bar Room Ranger Fight,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121332038/bar-room-ranger-fight,1.7,Sport,5.11c,1.0,,39.9726,-105.4648,11.3,G
+Wind Song,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121339125/wind-song,2.0,Sport,5.11c/d,1.0,50.0,39.9726,-105.4648,11.35,G
+Illegal Smile,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121332064/illegal-smile,1.7,Sport,5.12a,1.0,,39.9726,-105.4648,12.1,G
+One Way Ticket Into Exile,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121338053/one-way-ticket-into-exile,3.5,Sport,5.12b,1.0,50.0,39.9726,-105.4648,12.2,G
+Fire And Rain,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121339037/fire-and-rain,3.0,Sport,5.12b/c,1.0,60.0,39.9726,-105.4648,12.25,G
+Dwarf's Dilemma,The Sky Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121339184/dwarfs-dilemma,2.0,Sport,5.12c,1.0,25.0,39.9726,-105.4648,12.3,G
+Walk in the Park,Sport Park Slab > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105999132/walk-in-the-park,2.6,"Trad, Sport",5.5,1.0,135.0,39.9726,-105.4648,5.0,G
+Stryker,Recovery Room > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105868220/stryker,1.0,"Sport, TR",5.10a,1.0,25.0,39.9726,-105.4648,10.1,G
+Coffee Pot Crack,Recovery Room > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748873/coffee-pot-crack,1.4,Sport,5.10+,1.0,,39.9726,-105.4648,10.35,G
+Jaws,Recovery Room > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751861/jaws,1.5,Sport,5.11a/b,1.0,,39.9726,-105.4648,11.15,G
+Blackout,Recovery Room > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748870/blackout,2.1,"Sport, TR",5.12b,1.0,,39.9726,-105.4648,12.2,G
+Gruel Shoes,The Stone Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107951461/gruel-shoes,2.3,Sport,5.8,1.0,65.0,39.9726,-105.4648,8.0,G
+Yin Pin (aka Stonefish),The Stone Cafe > The Sport Park > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107951451/yin-pin-aka-stonefish,2.5,Sport,5.10d,1.0,80.0,39.9726,-105.4648,10.4,G
+Cool Arete,Little Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/114302940/cool-arete,2.0,Sport,5.11,1.0,,40.0137,-105.3133,11.0,G
+Napoleon Complex,Little Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120867534/napoleon-complex,2.0,Sport,5.11c,1.0,40.0,40.0137,-105.3133,11.3,G
+The Mustard Seed,The Cornerstone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748891/the-mustard-seed,1.9,Sport,5.8,1.0,50.0,40.0025,-105.4143,8.0,G
+The Forgiven,The Cornerstone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750670/the-forgiven,1.3,"Sport, TR",5.10a,1.0,,40.0025,-105.4143,10.1,G
+The Good Book,The Cornerstone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750739/the-good-book,2.4,"Sport, TR",5.10c,1.0,,40.0025,-105.4143,10.3,G
+Assault of the Earth,The Cornerstone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750673/assault-of-the-earth,1.9,"Sport, TR",5.10d,1.0,,40.0025,-105.4143,10.4,G
+Victory in de Feet,The Cornerstone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750682/victory-in-de-feet,1.4,Sport,5.11b,1.0,,40.0025,-105.4143,11.2,G
+Repo Man,The Cornerstone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752068/repo-man,1.5,Sport,5.12a,1.0,,40.0025,-105.4143,12.1,G
+Runaway,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764853/runaway,2.9,Sport,5.8,1.0,120.0,39.9928,-105.4181,8.0,G
+Lucky Strikes Again,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758629/lucky-strikes-again,2.7,Sport,5.9,1.0,60.0,39.9928,-105.4181,9.0,G
+Fly Swatter,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751642/fly-swatter,0.9,Sport,5.10c,1.0,,39.9928,-105.4181,10.3,G
+Pri-Moe,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758542/pri-moe,2.2,"Trad, Sport",5.10+,1.0,70.0,39.9928,-105.4181,10.35,G
+The Bait,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752374/the-bait,2.5,"Trad, Sport",5.11a,1.0,70.0,39.9928,-105.4181,11.1,G
+The Reach of Faith,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117510519/the-reach-of-faith,1.0,Sport,5.11-,1.0,70.0,39.9928,-105.4181,11.15,G
+New Fanatic,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106087627/new-fanatic,1.2,Sport,5.11c/d,1.0,65.0,39.9928,-105.4181,11.35,G
+Fly Trap,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754912/fly-trap,2.2,Sport,5.11d,1.0,,39.9928,-105.4181,11.4,G
+Red Badger,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105842563/red-badger,1.3,Sport,5.11d,1.0,25.0,39.9928,-105.4181,11.4,G
+Dampened Enthusiasm,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754909/dampened-enthusiasm,1.5,Sport,5.12a,1.0,,39.9928,-105.4181,12.1,G
+Joy Ride,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749548/joy-ride,3.6,Sport,5.12b,1.0,,39.9928,-105.4181,12.2,G
+Feeding the Beast,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108023528/feeding-the-beast,2.0,Sport,5.12b,1.0,50.0,39.9928,-105.4181,12.2,G
+Der Letzte Zug,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763947/der-letzte-zug,3.5,Sport,5.12+,1.0,70.0,39.9928,-105.4181,12.35,G
+Prong,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755368/prong,1.4,Sport,5.12+,1.0,,39.9928,-105.4181,12.35,G
+Work It On Out,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106023280/work-it-on-out,1.8,"Sport, Boulder",5.12d V6,1.0,18.0,39.9928,-105.4181,12.4,G
+The Badger Traverse,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106090776/the-badger-traverse,1.9,Sport,5.13a,1.0,35.0,39.9928,-105.4181,13.1,G
+Give the Dog a Bone,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754927/give-the-dog-a-bone,3.4,Sport,5.13a,1.0,,39.9928,-105.4181,13.1,G
+Die Reeperbahn,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105885243/die-reeperbahn,3.3,Sport,5.13b,1.0,60.0,39.9928,-105.4181,13.2,G
+Twist and Shout,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106120566/twist-and-shout,2.6,Sport,5.13c,1.0,60.0,39.9928,-105.4181,13.3,G
+Gagger With A Bone,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110272935/gagger-with-a-bone,2.0,Sport,5.13c,1.0,90.0,39.9928,-105.4181,13.3,G
+Gagger,Coney Island > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105885250/gagger,2.3,Sport,5.13d,1.0,60.0,39.9928,-105.4181,13.4,G
+Eagle Snacks,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751195/eagle-snacks,2.2,Sport,5.10d,1.0,,39.9992,-105.3826,10.4,G
+Eagle Chick,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761238/eagle-chick,2.1,Sport,5.11a,1.0,80.0,39.9992,-105.3826,11.1,G
+Eagle Hardware,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749557/eagle-hardware,2.8,Sport,5.11,1.0,80.0,39.9992,-105.3826,11.0,G
+Iggle,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832829/iggle,2.0,Sport,5.11c,2.0,90.0,39.9992,-105.3826,11.3,G
+Iggle Direct,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832834/iggle-direct,2.0,Sport,5.11c,1.0,90.0,39.9992,-105.3826,11.3,G
+Dharma Punks,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117604118/dharma-punks,3.4,Sport,5.11+,4.0,280.0,39.9992,-105.3826,11.35,G
+Golden Eagle,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749560/golden-eagle,3.0,Sport,5.11d,1.0,80.0,39.9992,-105.3826,11.4,G
+Eagle Eyes,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761292/eagle-eyes,2.8,Sport,5.12a,1.0,70.0,39.9992,-105.3826,12.1,G
+Eagle Tricks,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107758400/eagle-tricks,1.6,Sport,5.12a,1.0,70.0,39.9992,-105.3826,12.1,G
+Green Panther,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751399/green-panther,2.1,Sport,5.12d,1.0,,39.9992,-105.3826,12.4,G
+Finally Eagle,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107814150/finally-eagle,3.0,Sport,5.13a,1.0,,39.9992,-105.3826,13.1,G
+Buddha Belly,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751177/buddha-belly,3.5,Sport,5.13a,1.0,,39.9992,-105.3826,13.1,G
+Stoner Homeland,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762969/stoner-homeland,1.5,Sport,5.13a,1.0,40.0,39.9992,-105.3826,13.1,G
+Rarely Eagle,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106915138/rarely-eagle,3.2,Sport,5.13-,1.0,70.0,39.9992,-105.3826,13.15,G
+Eagle Warrior,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751396/eagle-warrior,1.3,Sport,5.13b,1.0,,39.9992,-105.3826,13.2,G
+Bald Eagle,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106927324/bald-eagle,3.6,Sport,5.13b,1.0,70.0,39.9992,-105.3826,13.2,G
+Route of All Eagle,Eagle Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121731206/route-of-all-eagle,4.0,Sport,5.13c,1.0,80.0,39.9992,-105.3826,13.3,G
+Nimby,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753196/nimby,1.7,Sport,5.6,1.0,,40.0057,-105.3953,6.0,G
+Morning Sunshine,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753724/morning-sunshine,0.9,Sport,5.7,1.0,,40.0057,-105.3953,7.0,G
+Altoids On the Beach,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753133/altoids-on-the-beach,1.9,Sport,5.8,1.0,85.0,40.0057,-105.3953,8.0,G
+Walking with the Homesteader,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108869127/walking-with-the-homesteader,2.5,Sport,5.10b,1.0,50.0,40.0057,-105.3953,10.2,G
+Fire Starter,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107435478/fire-starter,2.2,Sport,5.10b,1.0,50.0,40.0057,-105.3953,10.2,G
+Baditude,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755641/baditude,2.3,Sport,5.10,1.0,,40.0057,-105.3953,10.0,G
+Waves of Rays,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753160/waves-of-rays,2.5,Sport,5.10c,1.0,,40.0057,-105.3953,10.3,G
+Waves on the Beach,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757987/waves-on-the-beach,1.9,Sport,5.10c/d,1.0,80.0,40.0057,-105.3953,10.35,G
+Howl Of A Hungry Cat,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753151/howl-of-a-hungry-cat,2.4,Sport,5.10d,1.0,,40.0057,-105.3953,10.4,G
+Burning Up The Hillside,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749566/burning-up-the-hillside,2.0,Sport,5.11a,1.0,60.0,40.0057,-105.3953,11.1,G
+Montana Floodgates,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749569/montana-floodgates,2.0,Sport,5.11a,1.0,70.0,40.0057,-105.3953,11.1,G
+Kelp Bed Freak Show,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112105941/kelp-bed-freak-show,1.0,Sport,5.11a,1.0,55.0,40.0057,-105.3953,11.1,G
+Ice Hose Chopper Lunch Mob,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112105954/ice-hose-chopper-lunch-mob,2.2,Sport,5.11-,1.0,35.0,40.0057,-105.3953,11.15,G
+The Homesteader,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753163/the-homesteader,2.1,Sport,5.11b,1.0,,40.0057,-105.3953,11.2,G
+Uptown Venus,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/116184433/uptown-venus,2.2,Sport,5.11,1.0,,40.0057,-105.3953,11.0,G
+Willie's Wake Up Call Girl,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753154/willies-wake-up-call-girl,1.0,Sport,5.11c/d,1.0,,40.0057,-105.3953,11.35,G
+Sundance,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113392978/sundance,2.0,Sport,5.11c/d,1.0,50.0,40.0057,-105.3953,11.35,G
+Nuns on the Beach,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107425758/nuns-on-the-beach,2.3,Sport,5.11c/d,1.0,60.0,40.0057,-105.3953,11.35,G
+The Tanning Block,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112105962/the-tanning-block,1.0,Sport,5.11d,1.0,40.0,40.0057,-105.3953,11.4,G
+Lady Of The Light,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753148/lady-of-the-light,2.9,Sport,5.12a,1.0,,40.0057,-105.3953,12.1,G
+Walking On Burning Floodgates,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/118271570/walking-on-burning-floodgates,2.0,Sport,5.12a,1.0,80.0,40.0057,-105.3953,12.1,G
+Walking On The Sun,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749563/walking-on-the-sun,2.7,Sport,5.12a/b,1.0,45.0,40.0057,-105.3953,12.15,G
+The Homesteader Burns Up The Hillside,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/118271447/the-homesteader-burns-up-the-hillside,2.0,Sport,5.12b,1.0,60.0,40.0057,-105.3953,12.2,G
+Lipstick Sunset,The Solar Dome (aka Lighthouse) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759075/lipstick-sunset,2.3,"Sport, TR",5.12b/c,1.0,30.0,40.0057,-105.3953,12.25,G
+Baby Dog,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119267832/baby-dog,2.5,Sport,5.7+,1.0,90.0,39.99752,-105.41522,7.35,G
+Animation,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749785/animation,3.2,Sport,5.8,1.0,100.0,39.99752,-105.41522,8.0,G
+Laurel & Hardy Meet Abbott & Costello,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106106417/laurel-hardy-meet-abbott-costello,1.7,Sport,5.9,1.0,50.0,39.99752,-105.41522,9.0,G
+Lazy Day,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106147677/lazy-day,1.9,Sport,5.9+,1.0,60.0,39.99752,-105.41522,9.35,G
+Is It Ready Yet...Moe,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106107243/is-it-ready-yetmoe,2.1,Sport,5.9+,1.0,80.0,39.99752,-105.41522,9.35,G
+Unfamiliar Strangers,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762684/unfamiliar-strangers,2.3,Sport,5.9+,1.0,85.0,39.99752,-105.41522,9.35,G
+Cannabis Sportiva,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753067/cannabis-sportiva,2.6,"Trad, Sport",5.10d,1.0,,39.99752,-105.41522,10.4,G
+Joint Venture,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749782/joint-venture,2.5,Sport,5.11a,2.0,,39.99752,-105.41522,11.1,G
+Free Willie,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749956/free-willie,3.1,Sport,5.11a,1.0,80.0,39.99752,-105.41522,11.1,G
+Nice To Be Here,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106136111/nice-to-be-here,1.5,Sport,5.11-,1.0,70.0,39.99752,-105.41522,11.15,G
+Melancholy Man,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106109550/melancholy-man,1.7,Sport,5.11b,1.0,75.0,39.99752,-105.41522,11.2,G
+Tuesday Afternoon,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106144480/tuesday-afternoon,1.4,Sport,5.11,1.0,70.0,39.99752,-105.41522,11.0,G
+Threshold Of A Dream,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106125224/threshold-of-a-dream,2.7,Sport,5.11d,1.0,70.0,39.99752,-105.41522,11.4,G
+Beast Food Right,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106304100/beast-food-right,2.2,Sport,5.12a,1.0,85.0,39.99752,-105.41522,12.1,G
+Animal Riots Activist,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754999/animal-riots-activist,2.7,Sport,5.12a,1.0,45.0,39.99752,-105.41522,12.1,G
+Days of Future Passed aka Our Future Has Passed,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758080/days-of-future-passed-aka-our-future-has-passed,2.8,Sport,5.12a,1.0,,39.99752,-105.41522,12.1,G
+Feeding The Beast (aka Beast Food),Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757429/feeding-the-beast-aka-beast-food,2.4,"Trad, Sport",5.12a,1.0,90.0,39.99752,-105.41522,12.1,G
+Blockhead,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106253127/blockhead,2.4,Sport,5.12b,1.0,85.0,39.99752,-105.41522,12.2,G
+Beast Food Left,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106304082/beast-food-left,2.4,Sport,5.12b,1.0,85.0,39.99752,-105.41522,12.2,G
+Piles of Trials,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757018/piles-of-trials,3.0,Sport,5.12b,1.0,40.0,39.99752,-105.41522,12.2,G
+Lovely to See You,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106135888/lovely-to-see-you,2.1,"Trad, Sport",5.12c,1.0,70.0,39.99752,-105.41522,12.3,G
+Reversal Roof,Lower Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106147074/reversal-roof,1.7,"Sport, Boulder",5.12d V7,1.0,25.0,39.99752,-105.41522,12.4,G
+Hope and Pray,Middle Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106124805/hope-and-pray,1.4,"Trad, Sport",5.8,1.0,60.0,39.99812,-105.41479,8.0,G
+Ride My See-saw,Middle Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106135291/ride-my-see-saw,1.5,Sport,5.10a,1.0,80.0,39.99812,-105.41479,10.1,G
+Talking Out Of Turn,Middle Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106113458/talking-out-of-turn,2.7,Sport,5.10b,2.0,,39.99812,-105.41479,10.2,G
+Strange Times,Middle Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106121979/strange-times,1.6,"Trad, Sport",5.10c,1.0,60.0,39.99812,-105.41479,10.3,G
+The Balance,Middle Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106121675/the-balance,1.3,"Trad, Sport",5.11-,1.0,75.0,39.99812,-105.41479,11.15,G
+Isn't Life Strange,Middle Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106110630/isnt-life-strange,3.0,Sport,5.11b/c,1.0,105.0,39.99812,-105.41479,11.25,G
+Split Personality,Middle Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107575111/split-personality,2.7,Sport,5.12,1.0,95.0,39.99812,-105.41479,12.0,G
+Blame it on a Rush of Blood to the Head,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758143/blame-it-on-a-rush-of-blood-to-the-head,0.0,"Trad, Sport",5.11b/c,2.0,150.0,39.99846,-105.41397,11.25,G
+New Beginnings,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757459/new-beginnings,2.1,Sport,5.11c,1.0,70.0,39.99846,-105.41397,11.3,G
+Animal Magnetism,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753505/animal-magnetism,3.8,Sport,5.11c,1.0,110.0,39.99846,-105.41397,11.3,G
+Sundog,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757231/sundog,2.7,Sport,5.12a,1.0,60.0,39.99846,-105.41397,12.1,G
+Cujo Tranquilizer,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757234/cujo-tranquilizer,3.2,Sport,5.12b,1.0,100.0,39.99846,-105.41397,12.2,G
+The Fifth World,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758895/the-fifth-world,2.9,"Trad, Sport",5.12b/c,1.0,90.0,39.99846,-105.41397,12.25,G
+Evolution Revolution,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749959/evolution-revolution,2.8,Sport,5.12b/c,1.0,,39.99846,-105.41397,12.25,G
+Global Gorilla,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749779/global-gorilla,3.4,Sport,5.12c,1.0,170.0,39.99846,-105.41397,12.3,G
+Animal Instinct,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755935/animal-instinct,3.7,Sport,5.12c,1.0,70.0,39.99846,-105.41397,12.3,G
+The Fifth Destiny,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/109768478/the-fifth-destiny,,Sport,5.12d,1.0,105.0,39.99846,-105.41397,12.4,G
+Hands of Destiny,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751672/hands-of-destiny,3.7,Sport,5.12d,2.0,,39.99846,-105.41397,12.4,G
+Pit Bull Prowser,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751546/pit-bull-prowser,2.4,Sport,5.13a,2.0,,39.99846,-105.41397,13.1,G
+Closer To God,Upper Animal World > Animal World > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106159335/closer-to-god,2.2,Sport,5.13c,1.0,95.0,39.99846,-105.41397,13.3,G
+Primate Studies,The Zoo > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749668/primate-studies,2.7,Sport,5.11+,1.0,,39.9991,-105.4145,11.35,G
+Living with the Apes,The Zoo > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749665/living-with-the-apes,2.9,Sport,5.12a,1.0,,39.9991,-105.4145,12.1,G
+Tiger Swan,The Zoo > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113994499/tiger-swan,3.0,Sport,5.12b,1.0,50.0,39.9991,-105.4145,12.2,G
+The Monkey Wrench,The Zoo > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749671/the-monkey-wrench,1.0,Sport,5.12b/c,1.0,,39.9991,-105.4145,12.25,G
+Don't Pull on the Udder,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764727/dont-pull-on-the-udder,1.6,"Trad, Sport",5.8,1.0,,39.9984,-105.4164,8.0,G
+Get Your Dieck Off My Barnyard Animals,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764637/get-your-dieck-off-my-barnyard-animals,2.0,"Trad, Sport",5.9,1.0,,39.9984,-105.4164,9.0,G
+What's Mine Is Yours,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106216226/whats-mine-is-yours,2.0,Sport,5.9,1.0,35.0,39.9984,-105.4164,9.0,G
+Sofa Kingdom,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750685/sofa-kingdom,2.4,Sport,5.9+,1.0,90.0,39.9984,-105.4164,9.35,G
+Couch Potato,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106216208/couch-potato,1.7,"Trad, Sport",5.10-,1.0,75.0,39.9984,-105.4164,10.15,G
+Just Another Cow's Climb,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105833248/just-another-cows-climb,1.5,"Trad, Sport",5.10-,1.0,65.0,39.9984,-105.4164,10.15,G
+Just Moo It,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105765042/just-moo-it,1.7,"Trad, Sport",5.10+,1.0,80.0,39.9984,-105.4164,10.35,G
+Little Stevie's Favorite Heifer,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764634/little-stevies-favorite-heifer,2.3,Sport,5.10c/d,1.0,,39.9984,-105.4164,10.35,G
+Not So Ruff Roof,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113920970/not-so-ruff-roof,1.6,Sport,5.10d,1.0,90.0,39.9984,-105.4164,10.4,G
+Lieback,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108170122/lieback,1.0,"Trad, Sport",5.11-,1.0,60.0,39.9984,-105.4164,11.15,G
+Ruff Roof,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755917/ruff-roof,2.4,"Sport, TR",5.12a,1.0,100.0,39.9984,-105.4164,12.1,G
+Bull Fight,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764631/bull-fight,1.6,Sport,5.12b,1.0,45.0,39.9984,-105.4164,12.2,G
+Nahcolite,Mine Hole Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120817389/nahcolite,2.0,Sport,5.12c,1.0,60.0,39.9984,-105.4164,12.3,G
+Road to Isengard,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756358/road-to-isengard,2.1,Sport,5.7,1.0,100.0,39.9983,-105.413,7.0,G
+Lothlorien,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750745/lothlorien,2.1,Sport,5.7,1.0,80.0,39.9983,-105.413,7.0,G
+Twin Cracks Right,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105850906/twin-cracks-right,1.5,"Trad, Sport",5.8,1.0,90.0,39.9983,-105.413,8.0,G
+Glennevere,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756532/glennevere,2.0,Sport,5.8,1.0,65.0,39.9983,-105.413,8.0,G
+Twin Cracks Left,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105850865/twin-cracks-left,2.0,"Trad, Sport",5.9-,1.0,85.0,39.9983,-105.413,9.15,G
+The Memory of Trees,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750922/the-memory-of-trees,2.6,Sport,5.9,1.0,100.0,39.9983,-105.413,9.0,G
+Minas Tireth,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761964/minas-tireth,1.7,Sport,5.10a,1.0,60.0,39.9983,-105.413,10.1,G
+Twin Peaks,The Watermark > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756535/twin-peaks,2.0,"Sport, TR",5.10a/b,1.0,90.0,39.9983,-105.413,10.15,G
+Left Side [Truth or Consequences],Truth or Consequences Crag aka Inca Stone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764997/left-side-truth-or-consequences,0.7,"Trad, Sport",5.10- R,1.0,35.0,40.0042,-105.4007,10.15,R
+Warm Up,Truth or Consequences Crag aka Inca Stone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752134/warm-up,1.7,Sport,5.10d,1.0,40.0,40.0042,-105.4007,10.4,G
+The Alter,Truth or Consequences Crag aka Inca Stone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105794453/the-alter,1.8,Sport,5.11a,1.0,45.0,40.0042,-105.4007,11.1,G
+Human Sacrifice,Truth or Consequences Crag aka Inca Stone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752146/human-sacrifice,1.0,Sport,5.11-,1.0,,40.0042,-105.4007,11.15,G
+Sacrificial Virgin,Truth or Consequences Crag aka Inca Stone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752143/sacrificial-virgin,1.8,Sport,5.11b,1.0,,40.0042,-105.4007,11.2,G
+Inca Stone,Truth or Consequences Crag aka Inca Stone > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762423/inca-stone,2.5,Sport,5.11d PG13,1.0,50.0,40.0042,-105.4007,11.4,PG13
+Iron Maiden,First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760608/iron-maiden,2.1,Sport,5.9,1.0,70.0,39.99885,-105.4124,9.0,G
+Sword In The Stone,First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105862660/sword-in-the-stone,2.5,Sport,5.9+,1.0,70.0,39.99885,-105.4124,9.35,G
+Mists of Avalon,First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761322/mists-of-avalon,2.4,Sport,5.10a,1.0,90.0,39.99885,-105.4124,10.1,G
+Slayer,First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761262/slayer,2.2,Sport,5.10b,1.0,70.0,39.99885,-105.4124,10.2,G
+[Redacted],First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761319/redacted,1.6,"Trad, Sport",5.10c,1.0,55.0,39.99885,-105.4124,10.3,G
+Marquis de Sade,First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761268/marquis-de-sade,2.4,Sport,5.10c,1.0,60.0,39.99885,-105.4124,10.3,G
+Body Count,First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761265/body-count,2.2,Sport,5.11a/b,1.0,60.0,39.99885,-105.4124,11.15,G
+Catch and Release,First Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751741/catch-and-release,1.5,Sport,5.12b,1.0,90.0,39.99885,-105.4124,12.2,G
+Wheel of Fortune,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761337/wheel-of-fortune,2.1,Sport,5.10a,1.0,60.0,39.999,-105.4122,10.1,G
+The Tower,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761340/the-tower,2.8,Sport,5.10a,1.0,100.0,39.999,-105.4122,10.1,G
+The Magician,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105857146/the-magician,1.7,"Trad, Sport",5.10a,1.0,80.0,39.999,-105.4122,10.1,G
+The Fool,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761343/the-fool,1.8,Sport,5.10c,1.0,60.0,39.999,-105.4122,10.3,G
+Lust,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761271/lust,3.4,Sport,5.10c,1.0,90.0,39.999,-105.4122,10.3,G
+The Hanged Man,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761334/the-hanged-man,1.5,Sport,5.10+,1.0,50.0,39.999,-105.4122,10.35,G
+The Horse,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764151/the-horse,1.7,"Trad, Sport",5.10d,1.0,60.0,39.999,-105.4122,10.4,G
+The Devil,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761274/the-devil,2.9,Sport,5.11b/c,1.0,70.0,39.999,-105.4122,11.25,G
+The Constant Gardener,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106129223/the-constant-gardener,2.8,Sport,5.12b,1.0,80.0,39.999,-105.4122,12.2,G
+Goat F***er,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764280/goat-fer,2.0,Sport,5.12,1.0,25.0,39.999,-105.4122,12.0,G
+Manganese Direct,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106129209/manganese-direct,3.5,Sport,5.12c,1.0,80.0,39.999,-105.4122,12.3,G
+Earth Angel,Tarot Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764436/earth-angel,3.6,Sport,5.12d,1.0,80.0,39.999,-105.4122,12.4,G
+Pillar,Three Dihedrals > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105825469/pillar,0.4,"Trad, Sport",5.6,1.0,50.0,39.99889,-105.41204,6.0,G
+Dom Perignon,Three Dihedrals > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758158/dom-perignon,1.7,"Trad, Sport",5.9,1.0,60.0,39.99889,-105.41204,9.0,G
+Dominator,Three Dihedrals > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758062/dominator,3.0,Sport,5.10c,1.0,60.0,39.99889,-105.41204,10.3,G
+Dead Can Dance,Wall of the Dead > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757393/dead-can-dance,2.4,Sport,5.9+,1.0,60.0,39.99836,-105.41199,9.35,G
+Isle of the Dead,Wall of the Dead > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756730/isle-of-the-dead,1.6,Sport,5.10b,1.0,,39.99836,-105.41199,10.2,G
+Dead Again,Wall of the Dead > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760935/dead-again,2.4,Sport,5.10c,1.0,60.0,39.99836,-105.41199,10.3,G
+Sarcophagus,Wall of the Dead > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119193303/sarcophagus,2.0,"Sport, TR",5.10+ PG13,1.0,70.0,39.99836,-105.41199,10.35,PG13
+The Clipboard,Clipboard Area > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758257/the-clipboard,2.6,Sport,5.11a/b,1.0,50.0,39.99889,-105.41204,11.15,G
+Chairman of the Board,Clipboard Area > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761295/chairman-of-the-board,2.9,Sport,5.11+,1.0,50.0,39.99889,-105.41204,11.35,G
+Disinclination,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761364/disinclination,1.9,Sport,5.7,1.0,90.0,39.99843,-105.41208,7.0,G
+Incline Club,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756484/incline-club,2.1,Sport,5.7+,1.0,90.0,39.99843,-105.41208,7.35,G
+Tomb of Sorrows,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761367/tomb-of-sorrows,1.6,Sport,5.8,1.0,75.0,39.99843,-105.41208,8.0,G
+Supernatural,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761349/supernatural,2.7,Sport,5.10d,1.0,85.0,39.99843,-105.41208,10.4,G
+Flashpoint,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105834727/flashpoint,1.5,Sport,5.11a,1.0,40.0,39.99843,-105.41208,11.1,G
+Strange Science,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754129/strange-science,3.4,"Sport, TR",5.11c,1.0,50.0,39.99843,-105.41208,11.3,G
+Ripcord,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761298/ripcord,2.7,Sport,5.12a,1.0,40.0,39.99843,-105.41208,12.1,G
+Free Fall,Middle Wall > Second Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758413/free-fall,2.6,Sport,5.12a,1.0,40.0,39.99843,-105.41208,12.1,G
+Mystery Ship,Crack Land > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757942/mystery-ship,1.7,Sport,5.10a,1.0,70.0,39.99888,-105.41159,10.1,G
+The Art Of War,Crack Land > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105831811/the-art-of-war,2.5,Sport,5.10b,1.0,100.0,39.99888,-105.41159,10.2,G
+Ancient Fright,Crack Land > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764418/ancient-fright,1.9,Sport,5.10c,1.0,70.0,39.99888,-105.41159,10.3,G
+Ancient Light,Crack Land > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761370/ancient-light,2.0,"Trad, Sport",5.10c,2.0,150.0,39.99888,-105.41159,10.3,G
+War Horse,Crack Land > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105833627/war-horse,2.1,"Trad, Sport",5.10c,1.0,75.0,39.99888,-105.41159,10.3,G
+Dragon Fly,Wall of the Dragon > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764544/dragon-fly,1.8,Sport,5.9,1.0,60.0,39.99863,-105.41169,9.0,G
+Dragon Slayer,Wall of the Dragon > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764559/dragon-slayer,2.1,Sport,5.10b,1.0,70.0,39.99863,-105.41169,10.2,G
+Sorcerer's Apprentice,West Gully > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764643/sorcerers-apprentice,1.1,Sport,5.7,1.0,60.0,39.99863,-105.41169,7.0,G
+Charon's Boat,West Gully > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764361/charons-boat,1.6,Sport,5.9+,1.0,40.0,39.99863,-105.41169,9.35,G
+Knight of Swords,West Gully > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764649/knight-of-swords,2.1,Sport,5.10d,1.0,70.0,39.99863,-105.41169,10.4,G
+Merlin's Enigma,West Gully > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764343/merlins-enigma,1.9,Sport,5.11c/d,1.0,40.0,39.99863,-105.41169,11.35,G
+The Solution,Southwest Buttress > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105843930/the-solution,2.0,"Trad, Sport",5.10c,1.0,80.0,39.99863,-105.41169,10.3,G
+Jaguar,Southwest Buttress > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758551/jaguar,2.0,"Trad, Sport",5.11c,1.0,70.0,39.99863,-105.41169,11.3,G
+The Resistance,Southwest Buttress > Third Tier > Avalon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105844444/the-resistance,2.4,"Trad, Sport",5.11c,1.0,80.0,39.99863,-105.41169,11.3,G
+First Round,The Arena (aka Contender Wall) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755566/first-round,1.2,Sport,5.10b,1.0,,40.0024,-105.4102,10.2,G
+Standing Eight Count,The Arena (aka Contender Wall) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755563/standing-eight-count,2.0,Sport,5.11b,1.0,,40.0024,-105.4102,11.2,G
+Contender Direct,The Arena (aka Contender Wall) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110316028/contender-direct,2.0,Sport,5.11c,1.0,50.0,40.0024,-105.4102,11.3,G
+Sucker Punch,The Arena (aka Contender Wall) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111091276/sucker-punch,0.0,Sport,5.11d PG13,1.0,25.0,40.0024,-105.4102,11.4,PG13
+Apparition,Cenotaph Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105840813/apparition,1.3,"Trad, Sport, TR",5.11a,1.0,35.0,39.9778,-105.4601,11.1,G
+Like a Junky Tying Off for the Last Time,Cenotaph Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113833355/like-a-junky-tying-off-for-the-last-time,2.3,Sport,5.11,1.0,40.0,39.9778,-105.4601,11.0,G
+[Getting] Down On It,Cenotaph Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113833341/getting-down-on-it,2.0,Sport,5.11b/c PG13,1.0,40.0,39.9778,-105.4601,11.25,PG13
+Phantasm,Cenotaph Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105840808/phantasm,2.0,"Trad, Sport, TR",5.11b/c,1.0,35.0,39.9778,-105.4601,11.25,G
+Knappweed Herbacide,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752116/knappweed-herbacide,1.6,Sport,5.10b,1.0,,39.9937,-105.41847,10.2,G
+Road To Emmaus,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106226356/road-to-emmaus,2.5,Sport,5.11a/b,2.0,100.0,39.9937,-105.41847,11.15,G
+New Road,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106226364/new-road,2.5,Sport,5.11a/b,1.0,100.0,39.9937,-105.41847,11.15,G
+Willard,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752074/willard,1.7,Sport,5.11c,1.0,,39.9937,-105.41847,11.3,G
+The Riddler,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757507/the-riddler,2.4,Sport,5.11c,1.0,50.0,39.9937,-105.41847,11.3,G
+Mr. Two-Face,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757516/mr-two-face,2.6,Sport,5.11c,1.0,60.0,39.9937,-105.41847,11.3,G
+The Joker,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748436/the-joker,2.0,Sport,5.11c,1.0,,39.9937,-105.41847,11.3,G
+New Test Of Men,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106226347/new-test-of-men,2.1,Sport,5.11+,2.0,100.0,39.9937,-105.41847,11.35,G
+Elanor,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756691/elanor,3.1,Sport,5.11d,1.0,,39.9937,-105.41847,11.4,G
+Dark Knight,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763143/dark-knight,2.1,Sport,5.11d,1.0,50.0,39.9937,-105.41847,11.4,G
+Empire of the Fenceless,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756790/empire-of-the-fenceless,3.5,Sport,5.12a,1.0,,39.9937,-105.41847,12.1,G
+White Men Can't Jump,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752077/white-men-cant-jump,1.6,Sport,5.12a/b,1.0,,39.9937,-105.41847,12.15,G
+Sad Batman,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/116993631/sad-batman,2.7,Sport,5.12b,1.0,65.0,39.9937,-105.41847,12.2,G
+Barbarians,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749692/barbarians,2.5,Sport,5.12b,1.0,,39.9937,-105.41847,12.2,G
+Tell-Tale Heart,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748424/tell-tale-heart,3.5,Sport,5.12b,1.0,,39.9937,-105.41847,12.2,G
+Trustafarian Panhandler,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112186142/trustafarian-panhandler,3.4,Sport,5.12,2.0,100.0,39.9937,-105.41847,12.0,G
+The Penguin,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764214/the-penguin,2.0,Sport,5.12b/c,1.0,50.0,39.9937,-105.41847,12.25,G
+Egg,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832232/egg,2.6,Sport,5.12c,1.0,45.0,39.9937,-105.41847,12.3,G
+Surrounded By Reality,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757576/surrounded-by-reality,1.8,Sport,5.12c,1.0,100.0,39.9937,-105.41847,12.3,G
+Furthermore,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/116993929/furthermore,2.0,Sport,5.12+,1.0,80.0,39.9937,-105.41847,12.35,G
+Pterodactyl Traverse,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756994/pterodactyl-traverse,1.6,Sport,5.12d,1.0,50.0,39.9937,-105.41847,12.4,G
+Evermore,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757048/evermore,3.0,Sport,5.12d,1.0,50.0,39.9937,-105.41847,12.4,G
+Chickenshit Armchair Environmentalist,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757894/chickenshit-armchair-environmentalist,2.3,Sport,5.12d,1.0,110.0,39.9937,-105.41847,12.4,G
+Catwoman,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750772/catwoman,1.9,Sport,5.12d,1.0,,39.9937,-105.41847,12.4,G
+The Flying Beast,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750778/the-flying-beast,3.3,Sport,5.12d,1.0,,39.9937,-105.41847,12.4,G
+Nevermore,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757513/nevermore,3.5,Sport,5.13a,1.0,50.0,39.9937,-105.41847,13.1,G
+Knappweed Herbicide (Part II),Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117096065/knappweed-herbicide-part-ii,2.0,Sport,5.13a,1.0,80.0,39.9937,-105.41847,13.1,G
+Dynamic Duel,Easter Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750775/dynamic-duel,1.7,Sport,5.13-,1.0,,39.9937,-105.41847,13.15,G
+Can't Please Everyone,Garden Party Wall > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106193454/cant-please-everyone,1.8,Sport,5.11-,1.0,51.0,40.0013,-105.3968,11.15,G
+Topiary,Garden Party Wall > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106193616/topiary,2.7,Sport,5.11d,1.0,53.0,40.0013,-105.3968,11.4,G
+The Illusionist,Garden Party Wall > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106210104/the-illusionist,2.2,Sport,5.12a,1.0,66.0,40.0013,-105.3968,12.1,G
+Sufferin' Succotash,The Wall of Voodoo > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756955/sufferin-succotash,1.5,Sport,5.11d,1.0,50.0,40.00161,-105.38752,11.4,G
+Voodoo Child,The Wall of Voodoo > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108417625/voodoo-child,2.5,Sport,5.12a/b,1.0,,40.00161,-105.38752,12.15,G
+Social Justice Warrior (new name),The Wall of Voodoo > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756952/social-justice-warrior-new-name,3.1,Sport,5.12b,1.0,50.0,40.00161,-105.38752,12.2,G
+Hydraulic Sandwich,The Angel of Death (formerly known as The Beer Can) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761469/hydraulic-sandwich,2.3,Sport,5.10b,1.0,105.0,39.9973,-105.4175,10.2,G
+The Angel of Death (formerly listed as Drink to Puke),The Angel of Death (formerly known as The Beer Can) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761472/the-angel-of-death-formerly-listed-as-drink-to-puke,2.4,Sport,5.10b,1.0,105.0,39.9973,-105.4175,10.2,G
+Icy Paralyzer,The Angel of Death (formerly known as The Beer Can) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761475/icy-paralyzer,2.2,Sport,5.11a,1.0,105.0,39.9973,-105.4175,11.1,G
+Tall Talking Midget,Lion's Den > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759234/tall-talking-midget,1.3,Sport,5.12a,1.0,40.0,40.0032,-105.40961,12.1,G
+Dexter,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106565030/dexter,1.0,Sport,5.3,1.0,65.0,40.0025,-105.3974,3.0,G
+Nurse Jackie,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106565026/nurse-jackie,1.5,Sport,5.5,1.0,65.0,40.0025,-105.3974,5.0,G
+Friends,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106564960/friends,2.1,Sport,5.8,2.0,100.0,40.0025,-105.3974,8.0,G
+Reunion,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106564976/reunion,2.1,Sport,5.8,1.0,75.0,40.0025,-105.3974,8.0,G
+Rain Check,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106564938/rain-check,2.5,Sport,5.8+,1.0,90.0,40.0025,-105.3974,8.35,G
+Loyalty,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106571828/loyalty,2.4,Sport,5.9-,1.0,90.0,40.0025,-105.3974,9.15,G
+Summer Nights,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106564985/summer-nights,2.0,Sport,5.9-,1.0,70.0,40.0025,-105.3974,9.15,G
+Crack Where the Sun Don't Shine (retrobolted as Rain Check),Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758128/crack-where-the-sun-dont-shine-retrobolted-as-rain-check,2.0,Sport,5.9- PG13,1.0,160.0,40.0025,-105.3974,9.15,PG13
+Lichenthrope aka Good Clean Fun,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758125/lichenthrope-aka-good-clean-fun,2.0,Sport,5.9 R,1.0,100.0,40.0025,-105.3974,9.0,R
+Firestarter,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106571850/firestarter,2.1,Sport,5.10a,1.0,90.0,40.0025,-105.3974,10.1,G
+Spooked,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106571875/spooked,2.4,Sport,5.10a,1.0,90.0,40.0025,-105.3974,10.1,G
+Fire and Rain,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106571860/fire-and-rain,2.1,Sport,5.10b,1.0,90.0,40.0025,-105.3974,10.2,G
+Erika,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106564995/erika,2.1,Sport,5.10b,1.0,70.0,40.0025,-105.3974,10.2,G
+Smallville,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106565008/smallville,2.0,Sport,5.10b,1.0,70.0,40.0025,-105.3974,10.2,G
+Thunderhead,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106565001/thunderhead,2.3,Sport,5.10,1.0,70.0,40.0025,-105.3974,10.0,G
+"Rain Delay (Whodathunkit, led prior to the bolts)",Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106571843/rain-delay-whodathunkit-led-prior-to-the-bolts,2.7,Sport,5.10c,1.0,90.0,40.0025,-105.3974,10.3,G
+Quick Silver,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106564989/quick-silver,2.4,Sport,5.10c,1.0,70.0,40.0025,-105.3974,10.3,G
+Lightning Strike,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106564948/lightning-strike,2.4,Sport,5.11a/b,1.0,50.0,40.0025,-105.3974,11.15,G
+Full Respect,Across from The Bihedral aka Cascade Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106571834/full-respect,2.3,Sport,5.11d,1.0,90.0,40.0025,-105.3974,11.4,G
+The Ancient of Days,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107678593/the-ancient-of-days,2.8,Sport,5.8,1.0,80.0,39.9788,-105.453,8.0,G
+Better You Than Me / Around the Corner,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107681459/better-you-than-me-around-the-corner,1.4,Sport,5.8,1.0,,39.9788,-105.453,8.0,G
+Coming Up Roses,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112001348/coming-up-roses,1.5,Sport,5.9-,1.0,70.0,39.9788,-105.453,9.15,G
+Heat Wave,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/109210926/heat-wave,1.8,Sport,5.10a,1.0,60.0,39.9788,-105.453,10.1,G
+Wyoming Prairie Dogs,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/109180206/wyoming-prairie-dogs,2.0,Sport,5.10a,1.0,60.0,39.9788,-105.453,10.1,G
+Dirty Rose,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/114787913/dirty-rose,1.8,Sport,5.10b,1.0,60.0,39.9788,-105.453,10.2,G
+Axed,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112776688/axed,2.2,Sport,5.10b,1.0,60.0,39.9788,-105.453,10.2,G
+Grizzly Rose,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/109316087/grizzly-rose,2.3,Sport,5.10c,1.0,50.0,39.9788,-105.453,10.3,G
+Short Sport Route,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/109210911/short-sport-route,1.2,Sport,5.11a,1.0,30.0,39.9788,-105.453,11.1,G
+Big Tuna,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107681602/big-tuna,2.3,Sport,5.11a,1.0,,39.9788,-105.453,11.1,G
+Steel Pulse,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110337666/steel-pulse,2.4,Sport,5.11c,1.0,60.0,39.9788,-105.453,11.3,G
+Yellow Tail,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106135320/yellow-tail,1.7,Sport,5.11+,1.0,50.0,39.9788,-105.453,11.35,G
+Mind Yer Business,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/122410270/mind-yer-business,2.0,Sport,5.11d,1.0,50.0,39.9788,-105.453,11.4,G
+Golden Rose,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762747/golden-rose,2.5,Sport,5.12a,1.0,60.0,39.9788,-105.453,12.1,G
+Sick Puppy,Mountain Rose > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110332073/sick-puppy,2.7,Sport,5.12b,1.0,50.0,39.9788,-105.453,12.2,G
+Ground Swell,Mindless Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759927/ground-swell,1.3,"Trad, Sport",5.10,1.0,80.0,40.0024,-105.4102,10.0,G
+Aqua Regia,Mindless Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106154984/aqua-regia,1.6,Sport,5.11a,1.0,,40.0024,-105.4102,11.1,G
+South Beach,Broken Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105765117/south-beach,1.9,"Trad, Sport",5.10b,1.0,70.0,39.9792,-105.4542,10.2,G
+Muad'Dib,Broken Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105817156/muaddib,1.8,Sport,5.10,1.0,50.0,39.9792,-105.4542,10.0,G
+White Trash,Broken Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105841176/white-trash,1.4,"Trad, Sport",5.11b,1.0,65.0,39.9792,-105.4542,11.2,G
+Fit for Life,Broken Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105765045/fit-for-life,2.3,Sport,5.12b,1.0,70.0,39.9792,-105.4542,12.2,G
+Blind Date,One Shoe Makes It Murder > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760377/blind-date,,"Trad, Sport",5.11a,1.0,80.0,40.0024,-105.4102,11.1,G
+Russian Bride,One Shoe Makes It Murder > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760401/russian-bride,2.3,Sport,5.11d,1.0,60.0,40.0024,-105.4102,11.4,G
+Kate Moss,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760950/kate-moss,3.1,Sport,5.10b,1.0,125.0,39.9966,-105.4147,10.2,G
+Gyromancy,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760854/gyromancy,2.7,Sport,5.11a,1.0,60.0,39.9966,-105.4147,11.1,G
+Smoke Down,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105839969/smoke-down,2.0,Sport,5.11a,1.0,40.0,39.9966,-105.4147,11.1,G
+Consilience,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760851/consilience,3.5,Sport,5.11b/c,1.0,110.0,39.9966,-105.4147,11.25,G
+F**k You,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764175/fk-you,2.6,Sport,5.11c,1.0,90.0,39.9966,-105.4147,11.3,G
+Bands of Gold,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764172/bands-of-gold,1.8,Sport,5.11d,1.0,100.0,39.9966,-105.4147,11.4,G
+Dracula,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832470/dracula,3.1,Sport,5.12b,1.0,80.0,39.9966,-105.4147,12.2,G
+Pipe Dreams,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764169/pipe-dreams,2.5,Sport,5.12b,1.0,90.0,39.9966,-105.4147,12.2,G
+Caught in the Web,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760548/caught-in-the-web,1.6,Sport,5.12c,1.0,60.0,39.9966,-105.4147,12.3,G
+Resonator,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105989981/resonator,2.2,Sport,5.13a,1.0,45.0,39.9966,-105.4147,13.1,G
+Count Chocula,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121055454/count-chocula,2.7,Sport,5.13a,1.0,,39.9966,-105.4147,13.1,G
+Franken Berry,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121778610/franken-berry,3.0,Sport,5.13c,1.0,70.0,39.9966,-105.4147,13.3,G
+Mordred,Black Widow Slab > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106945277/mordred,3.4,Sport,5.13d,1.0,100.0,39.9966,-105.4147,13.4,G
+Into the Mystic,Ledge One > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761244/into-the-mystic,1.4,Sport,5.10a,1.0,100.0,39.99646,-105.41665,10.1,G
+Mystical Melange,Ledge One > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761388/mystical-melange,2.9,Sport,5.10c,3.0,280.0,39.99646,-105.41665,10.3,G
+Jungle of Stone,South Pillar > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760908/jungle-of-stone,1.9,"Trad, Sport",5.9,1.0,115.0,39.99607,-105.41633,9.0,G
+Black Rain,South Pillar > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761034/black-rain,2.5,Sport,5.10-,1.0,115.0,39.99607,-105.41633,10.15,G
+Prince Charmer,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762174/prince-charmer,0.9,"Trad, Sport",5.9+,1.0,100.0,39.99654,-105.41685,9.35,G
+The Wave,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762759/the-wave,1.3,"Sport, Aid",5.10a A0,1.0,50.0,39.99654,-105.41685,10.1,G
+Arcanum,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761253/arcanum,1.8,"Trad, Sport",5.10a,2.0,175.0,39.99654,-105.41685,10.1,G
+Crack of Dawn,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762879/crack-of-dawn,1.4,"Trad, Sport",5.10b,2.0,160.0,39.99654,-105.41685,10.2,G
+Eight Miles High,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761250/eight-miles-high,2.1,Sport,5.10b,2.0,210.0,39.99654,-105.41685,10.2,G
+Sunlight Makes Me Paranoid,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762831/sunlight-makes-me-paranoid,2.7,Sport,5.10c,1.0,100.0,39.99654,-105.41685,10.3,G
+Immaculate Deception,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762939/immaculate-deception,1.5,"Trad, Sport",5.10c,2.0,180.0,39.99654,-105.41685,10.3,G
+Mystic Mile,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761247/mystic-mile,2.6,Sport,5.10c,2.0,190.0,39.99654,-105.41685,10.3,G
+Lightspeed,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762153/lightspeed,2.3,Sport,5.10d,1.0,60.0,39.99654,-105.41685,10.4,G
+Wings of Desire,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762156/wings-of-desire,2.4,Sport,5.11b,1.0,160.0,39.99654,-105.41685,11.2,G
+Mind Bender,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762798/mind-bender,2.7,Sport,5.11c/d,1.0,80.0,39.99654,-105.41685,11.35,G
+MLK,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760902/mlk,2.7,"Trad, Sport",5.12a,1.0,105.0,39.99654,-105.41685,12.1,G
+Aerial Boundaries,Main Wall > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761037/aerial-boundaries,2.4,"Sport, Aid",5.12a/b A0,1.0,120.0,39.99654,-105.41685,12.15,G
+The Wizard of Moss,Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113348035/the-wizard-of-moss,1.5,Sport,5.10-,1.0,120.0,39.9969,-105.41707,10.15,G
+Lost Highway,Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762813/lost-highway,2.4,Sport,5.10c,3.0,200.0,39.9969,-105.41707,10.3,G
+Cheech and Choss,Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113348137/cheech-and-choss,3.0,Sport,5.10+,1.0,,39.9969,-105.41707,10.35,G
+Sleepwalkin',Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113377991/sleepwalkin,2.5,Sport,5.11-,1.0,,39.9969,-105.41707,11.15,G
+Orgasmatron,Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105847492/orgasmatron,3.0,Sport,5.11b,1.0,90.0,39.9969,-105.41707,11.2,G
+Avalon World AKA Chong's Biway,Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113348098/avalon-world-aka-chongs-biway,2.0,Sport,5.11,1.0,,39.9969,-105.41707,11.0,G
+Cross Your Mind,Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112154263/cross-your-mind,2.7,Sport,5.12a/b,1.0,60.0,39.9969,-105.41707,12.15,G
+Sweeping Beauty,Lost Highway Area > Sleeping Beauty > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113348019/sweeping-beauty,4.0,Sport,5.12a/b,1.0,90.0,39.9969,-105.41707,12.15,G
+Ziggurat,Tower of Babel > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760917/ziggurat,1.3,Sport,5.11a,1.0,90.0,40.0036,-105.4074,11.1,G
+Unknown,Tower of Babel > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108142317/unknown,2.0,Sport,5.11b/c,1.0,,40.0036,-105.4074,11.25,G
+Babylon is Burning,Tower of Babel > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108142287/babylon-is-burning,2.0,"Trad, Sport",5.12a,1.0,,40.0036,-105.4074,12.1,G
+Magic Wand,Wizard Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761073/magic-wand,2.1,Sport,5.7+,1.0,80.0,39.9991,-105.4111,7.35,G
+Way of the Wizard,Wizard Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761373/way-of-the-wizard,1.4,Sport,5.8,1.0,70.0,39.9991,-105.4111,8.0,G
+Christal Ball,Wizard Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761070/christal-ball,1.6,Sport,5.9-,1.0,70.0,39.9991,-105.4111,9.15,G
+Snow Crash,Wizard Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761076/snow-crash,1.9,Sport,5.10b,1.0,80.0,39.9991,-105.4111,10.2,G
+Don't Get Me Started,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761163/dont-get-me-started,1.6,Sport,5.6,1.0,70.0,40.0001,-105.4125,6.0,G
+Start Me Up,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761160/start-me-up,1.7,Sport,5.7,1.0,70.0,40.0001,-105.4125,7.0,G
+Right Line,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761142/right-line,1.5,Sport,5.8,1.0,50.0,40.0001,-105.4125,8.0,G
+Left Line,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761145/left-line,1.7,Sport,5.8,1.0,60.0,40.0001,-105.4125,8.0,G
+Just End It,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120661686/just-end-it,1.7,Sport,5.8,1.0,70.0,40.0001,-105.4125,8.0,G
+The Luminosity,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761157/the-luminosity,3.0,Sport,5.9,1.0,85.0,40.0001,-105.4125,9.0,G
+Contact,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761214/contact,2.2,Sport,5.9,2.0,130.0,40.0001,-105.4125,9.0,G
+Mission To Mars,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761148/mission-to-mars,1.6,"Trad, Sport",5.10a,1.0,40.0,40.0001,-105.4125,10.1,G
+Twilight Zone,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762546/twilight-zone,2.6,Sport,5.10a/b,1.0,50.0,40.0001,-105.4125,10.15,G
+Tower of Power,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761154/tower-of-power,2.6,Sport,5.10b,1.0,80.0,40.0001,-105.4125,10.2,G
+Fawkes and the Pilot,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121599865/fawkes-and-the-pilot,2.0,Sport,5.10b/c,1.0,65.0,40.0001,-105.4125,10.25,G
+Cosmic Explorer,Solaris > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761079/cosmic-explorer,2.3,Sport,5.11c,1.0,50.0,40.0001,-105.4125,11.3,G
+Pesky,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112569243/pesky,1.3,Sport,5.8,1.0,90.0,39.97727,-105.45706,8.0,G
+Code Red,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117280991/code-red,2.5,Sport,5.12b,1.0,60.0,39.97727,-105.45706,12.2,G
+Sin Gaz,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108244424/sin-gaz,2.4,Sport,5.12c/d,1.0,60.0,39.97727,-105.45706,12.35,G
+Sinopia,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761358/sinopia,2.9,Sport,5.13a,1.0,60.0,39.97727,-105.45706,13.1,G
+Van Damage,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107345416/van-damage,2.9,Sport,5.13a/b,1.0,45.0,39.97727,-105.45706,13.15,G
+The Orb,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761355/the-orb,2.8,Sport,5.13b,1.0,40.0,39.97727,-105.45706,13.2,G
+Double Impact,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111001178/double-impact,2.8,Sport,5.13b,1.0,45.0,39.97727,-105.45706,13.2,G
+Rumors of Glory,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106019273/rumors-of-glory,2.5,Sport,5.13b,1.0,30.0,39.97727,-105.45706,13.2,G
+The McDavid Bro Sesh (aka Bro Sesh),Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/114780228/the-mcdavid-bro-sesh-aka-bro-sesh,2.7,Sport,5.13c,1.0,45.0,39.97727,-105.45706,13.3,G
+Con Gaz,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112121427/con-gaz,2.3,Sport,5.13c,1.0,40.0,39.97727,-105.45706,13.3,G
+The Borg,Frisky Cliff > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763020/the-borg,2.0,Sport,5.13c,1.0,70.0,39.97727,-105.45706,13.3,G
+Romancing the Stone,Witches' Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764586/romancing-the-stone,2.2,"Trad, Sport",5.9,1.0,80.0,40.0022,-105.395,9.0,G
+Tese,Witches' Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764685/tese,3.0,Sport,5.10-,1.0,100.0,40.0022,-105.395,10.15,G
+No Direction Home,Witches' Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764709/no-direction-home,2.6,Sport,5.11a/b,1.0,95.0,40.0022,-105.395,11.15,G
+War is Love,Witches' Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764715/war-is-love,1.9,Sport,5.11,1.0,70.0,40.0022,-105.395,11.0,G
+Panic Attack (AKA BOB...Bombs Over Baghdad)),Witches' Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106197491/panic-attack-aka-bobbombs-over-baghdad,2.3,Sport,5.12a,1.0,80.0,40.0022,-105.395,12.1,G
+Tipskin Jihad,Witches' Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106187188/tipskin-jihad,1.8,Sport,5.12b,1.0,45.0,40.0022,-105.395,12.2,G
+Teenage Terrorists,Witches' Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105856439/teenage-terrorists,1.8,Sport,5.12b,1.0,50.0,40.0022,-105.395,12.2,G
+Griffon,Trout Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764562/griffon,1.7,Sport,5.10a,1.0,35.0,39.9969,-105.4161,10.1,G
+Greenback,Trout Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764571/greenback,1.5,Sport,5.10b,1.0,45.0,39.9969,-105.4161,10.2,G
+Cutthroat,Trout Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764568/cutthroat,1.4,"Trad, Sport",5.10c,1.0,45.0,39.9969,-105.4161,10.3,G
+No Man is an Island,Island Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764673/no-man-is-an-island,1.8,Sport,5.11a,1.0,70.0,40.003,-105.3601,11.1,G
+Miss Mantle,Island Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105847508/miss-mantle,2.5,Sport,5.11,1.0,50.0,40.003,-105.3601,11.0,G
+Myth of Freedom,Myth Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764826/myth-of-freedom,1.9,Sport,5.10b,1.0,70.0,39.9989,-105.4133,10.2,G
+Mjolnir,Myth Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764682/mjolnir,2.9,Sport,5.10c,1.0,,39.9989,-105.4133,10.3,G
+Excalibur,Myth Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764781/excalibur,2.3,Sport,5.11b,2.0,80.0,39.9989,-105.4133,11.2,G
+Thor,Myth Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764880/thor,1.3,Sport,5.11+,1.0,40.0,39.9989,-105.4133,11.35,G
+Transylvania,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105827022/transylvania,,"Trad, Sport",5.11,1.0,70.0,39.9796,-105.4539,11.0,G
+Louisville Slugger,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105816585/louisville-slugger,2.8,Sport,5.11b/c,1.0,60.0,39.9796,-105.4539,11.25,G
+Philadelphia Flyer,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764889/philadelphia-flyer,2.3,"Trad, Sport",5.11b/c,1.0,60.0,39.9796,-105.4539,11.25,G
+The Probe,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105842048/the-probe,1.3,Sport,5.11b/c,1.0,50.0,39.9796,-105.4539,11.25,G
+Obscurity Risk,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106803069/obscurity-risk,2.9,Sport,5.12a,1.0,55.0,39.9796,-105.4539,12.1,G
+Brenda from Kansas,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107206087/brenda-from-kansas,3.0,"Trad, Sport",5.13b,1.0,50.0,39.9796,-105.4539,13.2,G
+Super Ali Brenda,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117321006/super-ali-brenda,2.0,Sport,5.13c,1.0,45.0,39.9796,-105.4539,13.3,G
+Malia from B-town,The Overlook > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121341352/malia-from-b-town,2.0,Sport,5.13c,1.0,50.0,39.9796,-105.4539,13.3,G
+Face Off,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105975926/face-off,1.4,Sport,5.7,1.0,95.0,40.0038,-105.4058,7.0,G
+Total Eclipse,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105968232/total-eclipse,2.4,Sport,5.10a,2.0,155.0,40.0038,-105.4058,10.1,G
+Stayin' Alive,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105975956/stayin-alive,2.9,Sport,5.10a,2.0,185.0,40.0038,-105.4058,10.1,G
+Up and Left - Lone Unknown Route,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/109283011/up-and-left-lone-unknown-route,2.0,Sport,5.10-,1.0,65.0,40.0038,-105.4058,10.15,G
+Toe The Line,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105957789/toe-the-line,2.5,Sport,5.10b,2.0,180.0,40.0038,-105.4058,10.2,G
+Tag Team,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105983024/tag-team,2.5,Sport,5.10+,2.0,115.0,40.0038,-105.4058,10.35,G
+Sidekick,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105975428/sidekick,3.0,Sport,5.10d,2.0,150.0,40.0038,-105.4058,10.4,G
+Generous Donation,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105960629/generous-donation,2.3,Sport,5.11a,1.0,80.0,40.0038,-105.4058,11.1,G
+Hard Times,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105993694/hard-times,2.0,Sport,5.11c,1.0,90.0,40.0038,-105.4058,11.3,G
+6H4D (6 Horses 4 Daisy),Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119716794/6h4d-6-horses-4-daisy,2.0,Sport,5.13a,1.0,65.0,40.0038,-105.4058,13.1,G
+Goodbye Horses,Sport Land > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119716979/goodbye-horses,3.0,Sport,5.13c,1.0,65.0,40.0038,-105.4058,13.3,G
+Tree Line,Treasure Wall > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105996811/tree-line,1.5,Sport,5.8+,1.0,40.0,40.0041,-105.4061,8.35,G
+Buried Treasure,Treasure Wall > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105988542/buried-treasure,2.7,Sport,5.9-,2.0,170.0,40.0041,-105.4061,9.15,G
+Twilight Time,Treasure Wall > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105994585/twilight-time,1.9,Sport,5.9+,1.0,60.0,40.0041,-105.4061,9.35,G
+Fields of Gold,Treasure Wall > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106028197/fields-of-gold,2.7,"Trad, Sport",5.10a,3.0,370.0,40.0041,-105.4061,10.1,G
+The Twilight Kid,Treasure Wall > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106022527/the-twilight-kid,2.6,Sport,5.10c,1.0,90.0,40.0041,-105.4061,10.3,G
+Bobby's Back,Treasure Wall > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105996018/bobbys-back,1.5,Sport,5.10d,1.0,50.0,40.0041,-105.4061,10.4,G
+Fine Fir,The Garden > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106029322/fine-fir,0.9,"Trad, Sport",5.7,1.0,65.0,40.0043,-105.4063,7.0,G
+Border Crossing,The Garden > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106029367/border-crossing,1.7,"Trad, Sport",5.8-,2.0,200.0,40.0043,-105.4063,8.15,G
+Just Do It,The Garden > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106029313/just-do-it,1.7,"Trad, Sport",5.8,1.0,65.0,40.0043,-105.4063,8.0,G
+Crackdown,The Garden > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106029331/crackdown,1.6,"Trad, Sport",5.9,1.0,65.0,40.0043,-105.4063,9.0,G
+Before The Deluge,The Garden > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106029327/before-the-deluge,1.3,Sport,5.10a,1.0,65.0,40.0043,-105.4063,10.1,G
+The B Boys,The Garden > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106029688/the-b-boys,2.6,"Trad, Sport",5.10+,3.0,200.0,40.0043,-105.4063,10.35,G
+Smooth Operator,The Garden > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106030074/smooth-operator,2.3,"Trad, Sport",5.11+,3.0,200.0,40.0043,-105.4063,11.35,G
+Creekside Cruise,Creekside > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106038907/creekside-cruise,1.5,"Trad, Sport",5.7,1.0,90.0,40.0043,-105.4065,7.0,G
+Curtain Call,Creekside > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106054717/curtain-call,2.0,"Trad, Sport",5.8+,2.0,210.0,40.0043,-105.4065,8.35,G
+Spirit on the Water,Creekside > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106028524/spirit-on-the-water,2.3,"Trad, Sport",5.9,2.0,155.0,40.0043,-105.4065,9.0,G
+Local Hero,Creekside > Tonnere Tower > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106029592/local-hero,2.8,"Trad, Sport",5.10a,2.0,210.0,40.0043,-105.4065,10.1,G
+Senior Discount,Retirement Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105794884/senior-discount,1.6,Sport,5.8,1.0,60.0,39.985,-105.4413,8.0,G
+Second Career,Retirement Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105815014/second-career,1.1,Sport,5.8,1.0,60.0,39.985,-105.4413,8.0,G
+Fixed Income,Retirement Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105803070/fixed-income,1.8,Sport,5.11a,1.0,50.0,39.985,-105.4413,11.1,G
+COLA (Cost of Living Allowance).,Retirement Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106840350/cola-cost-of-living-allowance,1.7,Sport,5.11-,1.0,35.0,39.985,-105.4413,11.15,G
+Early Bird Special,Retirement Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105794887/early-bird-special,2.0,Sport,5.11-,1.0,50.0,39.985,-105.4413,11.15,G
+Let the Daylight In,Retirement Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105794890/let-the-daylight-in,2.5,Sport,5.12,1.0,60.0,39.985,-105.4413,12.0,G
+Depends,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105794569/depends,1.9,"Trad, Sport",5.7,1.0,60.0,39.9859,-105.4418,7.0,G
+Grampa's Day Out,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105862674/grampas-day-out,1.3,Sport,5.9,1.0,60.0,39.9859,-105.4418,9.0,G
+Sponge Bath,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105794563/sponge-bath,1.8,"Trad, Sport",5.9+,1.0,60.0,39.9859,-105.4418,9.35,G
+Sundowning,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105862679/sundowning,1.4,Sport,5.9+,1.0,60.0,39.9859,-105.4418,9.35,G
+Devil in Disguise,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105887353/devil-in-disguise,1.6,Sport,5.9+,1.0,25.0,39.9859,-105.4418,9.35,G
+Failure To Thrive,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106924734/failure-to-thrive,1.2,Sport,5.9+,1.0,40.0,39.9859,-105.4418,9.35,G
+Hip Replacement,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105795241/hip-replacement,1.3,Sport,5.10+,1.0,50.0,39.9859,-105.4418,10.35,G
+Digital Stimulation,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107427809/digital-stimulation,2.0,"Trad, Sport",5.11a,1.0,50.0,39.9859,-105.4418,11.1,G
+Angel of Mercy,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105794555/angel-of-mercy,2.4,Sport,5.11a,1.0,40.0,39.9859,-105.4418,11.1,G
+Aricept,Nursing Home > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105800492/aricept,1.3,Sport,5.11-,1.0,50.0,39.9859,-105.4418,11.15,G
+Red Bull,Higher Energy Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105809883/red-bull,1.7,"Trad, Sport",5.11-,1.0,55.0,39.9911,-105.4168,11.15,G
+Blood Whine,Higher Energy Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105811495/blood-whine,1.7,Sport,5.11,1.0,60.0,39.9911,-105.4168,11.0,G
+Full Throttle,Higher Energy Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105812159/full-throttle,2.3,Sport,5.11+,1.0,40.0,39.9911,-105.4168,11.35,G
+Practical Joke,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763461/practical-joke,1.6,"Trad, Sport",5.8,1.0,70.0,40.0031,-105.3893,8.0,G
+Comedy Works,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108305126/comedy-works,1.9,Sport,5.11a,1.0,60.0,40.0031,-105.3893,11.1,G
+The Far Side,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761748/the-far-side,1.2,Sport,5.11d,1.0,,40.0031,-105.3893,11.4,G
+True Comedian,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761751/true-comedian,1.8,Sport,5.12b,1.0,,40.0031,-105.3893,12.2,G
+Bust Out laughing,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121477096/bust-out-laughing,1.0,Sport,5.12c,1.0,,40.0031,-105.3893,12.3,G
+Tears of a Clown,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/114011333/tears-of-a-clown,3.0,Sport,5.12d,1.0,45.0,40.0031,-105.3893,12.4,G
+Slapstick,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121477110/slapstick,2.5,Sport,5.12d,1.0,,40.0031,-105.3893,12.4,G
+Skyrunner,West Buttress aka Comedy Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121929704/skyrunner,2.0,Sport,5.13b,1.0,20.0,40.0031,-105.3893,13.2,G
+Eye Of The Storm,Dike Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758638/eye-of-the-storm,2.0,"Trad, Sport",5.10c R,2.0,,40.0024,-105.3878,10.3,R
+Wild Cat,Dike Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761766/wild-cat,2.0,Sport,5.10d,1.0,70.0,40.0024,-105.3878,10.4,G
+DivineBearcatKnee,Dike Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106861718/divinebearcatknee,3.3,"Trad, Sport",5.11d,3.0,250.0,40.0024,-105.3878,11.4,G
+Bearcat Goes to Hollywood,Dike Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758332/bearcat-goes-to-hollywood,3.6,Sport,5.12a,2.0,100.0,40.0024,-105.3878,12.1,G
+The Radlands of Infinity,Central Chimney Area > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758071/the-radlands-of-infinity,3.6,Sport,5.12d,2.0,,40.0024,-105.3878,12.4,G
+Shimmer,Main Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748301/shimmer,1.7,Sport,5.9,1.0,,40.00283,-105.38896,9.0,G
+Simmer,Main Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748304/simmer,1.6,Sport,5.9,1.0,,40.00283,-105.38896,9.0,G
+P1 of Astrophysics (aka Bolt Cola),Main Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748310/p1-of-astrophysics-aka-bolt-cola,2.1,Sport,5.10a,1.0,,40.00283,-105.38896,10.1,G
+Get Shorty,Main Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758922/get-shorty,1.7,"Trad, Sport",5.10b,1.0,100.0,40.00283,-105.38896,10.2,G
+Cold Fusion,Main Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758641/cold-fusion,1.9,"Trad, Sport",5.10c,1.0,40.0,40.00283,-105.38896,10.3,G
+Charisma,Main Wall > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105765015/charisma,1.9,Sport,5.11a,1.0,70.0,40.00283,-105.38896,11.1,G
+Orange Crush,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763278/orange-crush,2.5,Sport,5.11c,1.0,80.0,40.00278,-105.38856,11.3,G
+Respite,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758323/respite,2.2,Sport,5.11d,1.0,50.0,40.00278,-105.38856,11.4,G
+Jolt Cola,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750694/jolt-cola,3.5,Sport,5.12a,1.0,,40.00278,-105.38856,12.1,G
+Hypertension,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761205/hypertension,2.4,Sport,5.12a,1.0,70.0,40.00278,-105.38856,12.1,G
+Ginseng Rush,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758047/ginseng-rush,2.9,Sport,5.12a/b,1.0,60.0,40.00278,-105.38856,12.15,G
+Vaso-power linkup,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107551335/vaso-power-linkup,4.0,"Trad, Sport",5.12+,1.0,110.0,40.00278,-105.38856,12.35,G
+Vasodilator,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750214/vasodilator,3.9,Sport,5.13a,1.0,,40.00278,-105.38856,13.1,G
+Elephant In The Room,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107890165/elephant-in-the-room,3.3,Sport,5.13b/c,1.0,85.0,40.00278,-105.38856,13.25,G
+Vasoconstrictor,Right Gully > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107976631/vasoconstrictor,4.0,Sport,5.13c,1.0,90.0,40.00278,-105.38856,13.3,G
+Erki Nool (WGA),Upper East Face > Blob Rock > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759030/erki-nool-wga,3.4,Sport,5.11d,1.0,90.0,40.0024,-105.3878,11.4,G
+Wake 'n Bake,Small Package Block > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764955/wake-n-bake,1.8,Sport,5.10a,1.0,30.0,40.0025,-105.3878,10.1,G
+King of the Hill,Small Package Block > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105765075/king-of-the-hill,2.0,Sport,5.13c,1.0,30.0,40.0025,-105.3878,13.3,G
+Of Human Bondage,Blob Slab > East Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107330676/of-human-bondage,1.8,"Trad, Sport",5.10 X,1.0,100.0,40.0024,-105.3876,10.0,G
+A Hike for Y2K,Blob Slab > East Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758053/a-hike-for-y2k,2.2,Sport,5.11c,1.0,120.0,40.0024,-105.3876,11.3,G
+The Young and the Rackless,Upper East Face > East Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762150/the-young-and-the-rackless,2.9,Sport,5.9,4.0,300.0,40.00244,-105.38754,9.0,G
+DH1?,Upper East Face > East Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762552/dh1,1.4,"Trad, Sport",5.9+,4.0,280.0,40.00244,-105.38754,9.35,G
+Long Live Rock,Upper East Face > East Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762705/long-live-rock,2.7,"Trad, Sport",5.11a,1.0,100.0,40.00244,-105.38754,11.1,G
+The Ticket,Upper East Face > East Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756472/the-ticket,3.9,Sport,5.12a,1.0,,40.00244,-105.38754,12.1,G
+The Enlightenment,Upper East Face > East Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756343/the-enlightenment,3.7,Sport,5.13b,1.0,,40.00244,-105.38754,13.2,G
+Two Minute Warning,Little Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761760/two-minute-warning,1.5,Sport,5.11c/d,1.0,40.0,40.0025,-105.3878,11.35,G
+Take Five,Little Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761694/take-five,1.9,Sport,5.12a,1.0,50.0,40.0025,-105.3878,12.1,G
+Lost and Found,Little Blob > Blob Rock Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761697/lost-and-found,2.2,Sport,5.12a,1.0,,40.0025,-105.3878,12.1,G
+Doctor Patient,Lower Boulder Falls > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105811217/doctor-patient,2.0,Sport,5.11b,1.0,60.0,40.0064,-105.406,11.2,G
+Prodigal Summer,Lower Boulder Falls > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756886/prodigal-summer,3.5,Sport,5.11c,1.0,90.0,40.0064,-105.406,11.3,G
+Crocodile Smile,Lower Boulder Falls > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757099/crocodile-smile,2.0,Sport,5.11d,1.0,80.0,40.0064,-105.406,11.4,G
+Caffeine Buzz,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761433/caffeine-buzz,1.3,Sport,5.8,1.0,,40.00668,-105.40689,8.0,G
+Mr. Sandman,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764985/mr-sandman,2.8,Sport,5.10a,1.0,80.0,40.00668,-105.40689,10.1,G
+Bedtime Story,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756931/bedtime-story,1.8,Sport,5.10b,1.0,90.0,40.00668,-105.40689,10.2,G
+Snooze Button,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756937/snooze-button,2.5,Sport,5.10b,1.0,80.0,40.00668,-105.40689,10.2,G
+My Buddy,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760620/my-buddy,1.3,Sport,5.10b,1.0,100.0,40.00668,-105.40689,10.2,G
+Wake Up Call,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758901/wake-up-call,2.4,Sport,5.10b,1.0,60.0,40.00668,-105.40689,10.2,G
+Smell the Coffee,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758904/smell-the-coffee,2.4,Sport,5.10b,1.0,60.0,40.00668,-105.40689,10.2,G
+Napster,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758907/napster,2.2,Sport,5.10b,1.0,40.0,40.00668,-105.40689,10.2,G
+The Daily Grind,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760599/the-daily-grind,2.2,Sport,5.10d,1.0,70.0,40.00668,-105.40689,10.4,G
+Golden Slumber,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764982/golden-slumber,2.3,"Trad, Sport",5.10d,1.0,80.0,40.00668,-105.40689,10.4,G
+Opener,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106905569/opener,1.8,Sport,5.10d,1.0,80.0,40.00668,-105.40689,10.4,G
+Tooth Fairy,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756427/tooth-fairy,2.0,Sport,5.11b,1.0,,40.00668,-105.40689,11.2,G
+Sleepless in Boulder,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756106/sleepless-in-boulder,2.8,Sport,5.11b,1.0,,40.00668,-105.40689,11.2,G
+Morpheus,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756400/morpheus,2.6,"Trad, Sport",5.11b,1.0,,40.00668,-105.40689,11.2,G
+The Bobsled,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755788/the-bobsled,2.6,Sport,5.11d,1.0,,40.00668,-105.40689,11.4,G
+Bobsled Direct Start aka War Sled,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761415/bobsled-direct-start-aka-war-sled,2.4,Sport,5.12b,1.0,80.0,40.00668,-105.40689,12.2,G
+Lucky Strikes,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755794/lucky-strikes,3.1,Sport,5.12b,1.0,,40.00668,-105.40689,12.2,G
+The Art of Dreaming,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756103/the-art-of-dreaming,2.5,Sport,5.12,1.0,,40.00668,-105.40689,12.0,G
+War On Freedom,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106813728/war-on-freedom,3.1,Sport,5.13a/b,1.0,80.0,40.00668,-105.40689,13.15,G
+Lucky-Freedom,Left Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113917886/lucky-freedom,3.0,Sport,5.13a/b,1.0,70.0,40.00668,-105.40689,13.15,G
+Rama,Middle > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755818/rama,2.0,"Trad, Sport",5.10b,1.0,,40.00677,-105.40642,10.2,G
+I Have  a Dream,Middle > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760740/i-have-a-dream,1.8,"Sport, TR",5.11a,1.0,40.0,40.00677,-105.40642,11.1,G
+Lucid Dreaming,Middle > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755821/lucid-dreaming,3.7,Sport,5.12c/d,1.0,,40.00677,-105.40642,12.35,G
+Sleep Deprivation,Right Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758110/sleep-deprivation,1.5,"Sport, TR",5.10c,2.0,,40.00683,-105.40619,10.3,G
+Tooth and Nail,Right Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759354/tooth-and-nail,2.1,"Trad, Sport",5.11a/b,1.0,80.0,40.00683,-105.40619,11.15,G
+Counting Sheep,Right Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755839/counting-sheep,1.8,"Trad, Sport",5.11b,1.0,,40.00683,-105.40619,11.2,G
+Sominex,Right Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755878/sominex,1.6,"Trad, Sport",5.11b,2.0,,40.00683,-105.40619,11.2,G
+Boulder Quartz System,Right Side > Plotinus Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105755836/boulder-quartz-system,3.1,Sport,5.12a,1.0,75.0,40.00683,-105.40619,12.1,G
+Cesspool,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107677833/cesspool,2.0,"Trad, Sport",5.10a,1.0,,40.0069,-105.4058,10.1,G
+Bobby's Wall,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106339607/bobbys-wall,3.6,Sport,5.10c,1.0,70.0,40.0069,-105.4058,10.3,G
+Adam's Arete,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106339621/adams-arete,3.3,Sport,5.10c/d,1.0,70.0,40.0069,-105.4058,10.35,G
+The Coug,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106308524/the-coug,2.3,"Trad, Sport",5.10d,1.0,100.0,40.0069,-105.4058,10.4,G
+Diving For Kipper Snacks,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105851137/diving-for-kipper-snacks,2.3,"Trad, Sport",5.11a,1.0,90.0,40.0069,-105.4058,11.1,G
+Higher Rites,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106140436/higher-rites,2.4,Sport,5.11b,1.0,50.0,40.0069,-105.4058,11.2,G
+Black Pool,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105851127/black-pool,2.8,Sport,5.11c,1.0,,40.0069,-105.4058,11.3,G
+Black Pool Variation,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105851132/black-pool-variation,3.0,Sport,5.11c,1.0,,40.0069,-105.4058,11.3,G
+Vishnu,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756127/vishnu,2.7,Sport,5.11d,1.0,,40.0069,-105.4058,11.4,G
+Full Circle,Krishna & Serenity Spire > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761241/full-circle,3.0,Sport,5.12b,1.0,70.0,40.0069,-105.4058,12.2,G
+Oversleeping,Nickel Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757405/oversleeping,2.0,"Trad, Sport",5.10a,1.0,80.0,40.0069,-105.4058,10.1,G
+Eye Opener,Nickel Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757399/eye-opener,,"Trad, Sport",5.11a,1.0,60.0,40.0069,-105.4058,11.1,G
+Bob the Builder,Nickel Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757402/bob-the-builder,,Sport,5.11a,1.0,60.0,40.0069,-105.4058,11.1,G
+King Slopers,Nickel Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105855189/king-slopers,1.0,Sport,5.11c,1.0,,40.0069,-105.4058,11.3,G
+Engineering Marvel,Nickel Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757408/engineering-marvel,2.0,Sport,5.11c,1.0,40.0,40.0069,-105.4058,11.3,G
+Mine All Mine,Pin Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759834/mine-all-mine,1.7,Sport,5.10a,1.0,60.0,40.0072,-105.4043,10.1,G
+Sweetest Taboo,Pin Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757165/sweetest-taboo,,"Trad, Sport",5.10+ R,1.0,80.0,40.0072,-105.4043,10.35,R
+Big Sky Arete,Pin Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764991/big-sky-arete,2.0,Sport,5.11d,1.0,80.0,40.0072,-105.4043,11.4,G
+Big Sky Corner,Pin Dome > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757084/big-sky-corner,3.8,Sport,5.12d,1.0,90.0,40.0072,-105.4043,12.4,G
+Checkpoint Bravo (AKA Himmelbruch),Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106304871/checkpoint-bravo-aka-himmelbruch,2.0,Sport,5.10c/d,1.0,60.0,40.00752,-105.4056,10.35,G
+Walpurgisnacht,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106241101/walpurgisnacht,2.3,Sport,5.11-,1.0,80.0,40.00752,-105.4056,11.15,G
+Dachau,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113854058/dachau,2.9,Sport,5.11+,1.0,70.0,40.00752,-105.4056,11.35,G
+Fall of the Wall,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759732/fall-of-the-wall,2.9,Sport,5.12b,1.0,80.0,40.00752,-105.4056,12.2,G
+Waterboarding,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106294161/waterboarding,2.5,Sport,5.12,1.0,90.0,40.00752,-105.4056,12.0,G
+Irrigation,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106978498/irrigation,3.0,Sport,5.12c,1.0,100.0,40.00752,-105.4056,12.3,G
+Interrogation,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760023/interrogation,3.6,Sport,5.12c/d,1.0,80.0,40.00752,-105.4056,12.35,G
+East Germany,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759747/east-germany,3.2,Sport,5.12d,1.0,90.0,40.00752,-105.4056,12.4,G
+Eastern Promises,Berlin Wall > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106304393/eastern-promises,2.7,Sport,5.13c,1.0,75.0,40.00752,-105.4056,13.3,G
+Closed Open Space,Wall of Winter Warmth > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758883/closed-open-space,1.3,"Trad, Sport, TR",5.9,1.0,50.0,40.0073,-105.405,9.0,G
+The Titleist (aka The Alicia Golembeski Memorial Route),Wall of Winter Warmth > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105857677/the-titleist-aka-the-alicia-golembeski-memorial-route,3.0,"Trad, Sport",5.11 PG13,2.0,190.0,40.0073,-105.405,11.0,PG13
+Leader of the Pack,Wall of Winter Warmth > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756121/leader-of-the-pack,2.0,"Trad, Sport, TR",5.11c/d,1.0,120.0,40.0073,-105.405,11.35,G
+On The Bough,Wall of Winter Warmth > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758718/on-the-bough,2.0,Sport,5.11d,1.0,70.0,40.0073,-105.405,11.4,G
+Angle of Repose,Wall of Winter Warmth > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757711/angle-of-repose,3.7,Sport,5.12a,2.0,180.0,40.0073,-105.405,12.1,G
+Alpha-Bob,Wall of Winter Warmth > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764988/alpha-bob,2.9,"Sport, TR",5.12a,1.0,60.0,40.0073,-105.405,12.1,G
+Mordor,Wall of Winter Warmth > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759618/mordor,3.2,"Trad, Sport",5.12b/c,2.0,150.0,40.0073,-105.405,12.25,G
+Universal Crusher,Universal Crusher Rock > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760623/universal-crusher,1.7,Sport,5.11a,1.0,50.0,40.0066,-105.4062,11.1,G
+Fly Off The Handle,Universal Crusher Rock > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832571/fly-off-the-handle,2.2,Sport,5.12,1.0,40.0,40.0066,-105.4062,12.0,G
+Flight of the Bumbly,"Bhakti Point, Summit Knob > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado",https://www.mountainproject.com/route/105832567/flight-of-the-bumbly,2.0,Sport,5.11c,1.0,70.0,40.0069,-105.4058,11.3,G
+English Immersion,"Bhakti Point, Summit Knob > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado",https://www.mountainproject.com/route/105832562/english-immersion,2.0,Sport,5.12a,1.0,70.0,40.0069,-105.4058,12.1,G
+Parvati,Krishna West > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113762208/parvati,1.5,Sport,5.10c,1.0,80.0,40.00781,-105.40629,10.3,G
+Shiva The Destroyer,Krishna West > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113811934/shiva-the-destroyer,1.7,Sport,5.11,1.0,80.0,40.00781,-105.40629,11.0,G
+Full Circle,Krishna West > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113578632/full-circle,3.0,Sport,5.12b,1.0,70.0,40.00781,-105.40629,12.2,G
+Cave Traverse,Krishna West > Lower Dream Canyon > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113812048/cave-traverse,2.0,Sport,5.12b/c,1.0,45.0,40.00781,-105.40629,12.25,G
+West’s Dihedral,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120229099/wests-dihedral,1.5,Sport,5.7,1.0,50.0,40.00425,-105.39831,7.0,G
+Hoo-doggy,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758425/hoo-doggy,1.9,Sport,5.8,1.0,50.0,40.00425,-105.39831,8.0,G
+Square Dance,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758428/square-dance,1.6,Sport,5.10a,1.0,50.0,40.00425,-105.39831,10.1,G
+Inbred Arete,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120187741/inbred-arete,2.0,Sport,5.10a/b,1.0,50.0,40.00425,-105.39831,10.15,G
+I'll be Dipped,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758431/ill-be-dipped,1.8,Sport,5.10b,1.0,50.0,40.00425,-105.39831,10.2,G
+Like Water for Bob,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758434/like-water-for-bob,2.0,Sport,5.10c PG13,1.0,50.0,40.00425,-105.39831,10.3,PG13
+Boy Howdy,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105859218/boy-howdy,2.4,Sport,5.11,1.0,35.0,40.00425,-105.39831,11.0,G
+Darn Tootin',Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120227009/darn-tootin,2.0,Sport,5.11d,1.0,,40.00425,-105.39831,11.4,G
+I Reckon,Hillbilly Rock  1 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760545/i-reckon,2.1,Sport,5.12a/b,1.0,50.0,40.00425,-105.39831,12.15,G
+Hankerin' in the Midsection,Hillbilly Rock 2 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107978943/hankerin-in-the-midsection,1.3,Sport,5.10c,1.0,70.0,40.0048,-105.4,10.3,G
+Dagnabitol,Hillbilly Rock 2 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110212145/dagnabitol,1.7,Sport,5.10d PG13,1.0,,40.0048,-105.4,10.4,PG13
+Heavy Cipherin',Hillbilly Rock 2 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110212341/heavy-cipherin,1.7,Sport,5.11a,1.0,,40.0048,-105.4,11.1,G
+By Cracky,Hillbilly Rock 2 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108196347/by-cracky,2.7,Sport,5.11,1.0,80.0,40.0048,-105.4,11.0,G
+Jethro,Hillbilly Rock 3 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107979269/jethro,1.0,Sport,5.10d,1.0,50.0,40.0048,-105.4,10.4,G
+Book Learnin',Hillbilly Rock 3 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107979150/book-learnin,2.0,Sport,5.10d,1.0,50.0,40.0048,-105.4,10.4,G
+Ellie May,Hillbilly Rock 3 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107979230/ellie-may,1.0,Sport,5.10d,1.0,50.0,40.0048,-105.4,10.4,G
+Pesky Varmints,Hillbilly Rock 3 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110212399/pesky-varmints,1.0,Sport,5.11-,1.0,40.0,40.0048,-105.4,11.15,G
+Moonshine,Hillbilly Rock 3 > Hillbilly Rocks > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110212366/moonshine,2.0,Sport,5.11b,1.0,,40.0048,-105.4,11.2,G
+Pup,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748313/pup,2.3,"Sport, TR",5.9,1.0,,40.0048,-105.3931,9.0,G
+Led Astray,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759009/led-astray,1.8,Sport,5.11a,1.0,80.0,40.0048,-105.3931,11.1,G
+Cracking the Code,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754996/cracking-the-code,2.1,Sport,5.11b,3.0,,40.0048,-105.3931,11.2,G
+Crash Test Blondes,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749578/crash-test-blondes,2.9,Sport,5.11c,1.0,,40.0048,-105.3931,11.3,G
+Just A Little Insecure,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754957/just-a-little-insecure,2.2,Sport,5.12a,1.0,,40.0048,-105.3931,12.1,G
+Hot Flyer,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754036/hot-flyer,3.6,Sport,5.12a,1.0,100.0,40.0048,-105.3931,12.1,G
+Plan B,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749575/plan-b,3.9,Sport,5.12b,1.0,95.0,40.0048,-105.3931,12.2,G
+Hot Wire,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761688/hot-wire,3.1,Sport,5.12c,1.0,100.0,40.0048,-105.3931,12.3,G
+The Juice,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105754015/the-juice,3.2,Sport,5.12d,1.0,100.0,40.0048,-105.3931,12.4,G
+Serp-du-oh-hai!,Upper Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117703189/serp-du-oh-hai,2.0,Sport,5.13a,1.0,32.0,40.0048,-105.3931,13.1,G
+Men Are From Mars,Lower Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763488/men-are-from-mars,1.3,"Trad, Sport",5.11a,1.0,,40.0045,-105.3931,11.1,G
+Enema of the People,Lower Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759078/enema-of-the-people,2.0,Sport,5.12a,1.0,50.0,40.0045,-105.3931,12.1,G
+Eldo of the People,Lower Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106303611/eldo-of-the-people,2.5,Sport,5.12a/b,1.0,70.0,40.0045,-105.3931,12.15,G
+Ecstasy of the People,Lower Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107875354/ecstasy-of-the-people,2.8,Sport,5.12d,1.0,80.0,40.0045,-105.3931,12.4,G
+Central Insecurity,Lower Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108138717/central-insecurity,3.3,Sport,5.12d,1.0,90.0,40.0045,-105.3931,12.4,G
+The Agony and Ecstasy,Lower Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105756604/the-agony-and-ecstasy,3.7,Sport,5.14a,1.0,,40.0045,-105.3931,14.1,G
+Cold Shot,Higher Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758964/cold-shot,2.1,Sport,5.11a/b,1.0,60.0,40.005,-105.3932,11.15,G
+Evolution,Higher Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105765177/evolution,1.2,Sport,5.11,1.0,60.0,40.005,-105.3932,11.0,G
+Gimme 3 Steps,Higher Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105761403/gimme-3-steps,0.9,"Trad, Sport",5.11b/c,1.0,60.0,40.005,-105.3932,11.25,G
+Turmoil,Higher Security Risk > Security Risk Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105819280/turmoil,1.7,Sport,5.11d,1.0,50.0,40.005,-105.3932,11.4,G
+The Hand,Road Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108916274/the-hand,1.3,Sport,5.10-,1.0,60.0,40.0001,-105.4132,10.15,G
+Road Rash (or Tweaked?),Road Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108916550/road-rash-or-tweaked,1.6,Sport,5.10b,1.0,70.0,40.0001,-105.4132,10.2,G
+Road Kill,Road Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108916435/road-kill,1.3,Sport,5.12a,1.0,70.0,40.0001,-105.4132,12.1,G
+Magic Bus,Road Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/110957653/magic-bus,3.0,Sport,5.12,1.0,60.0,40.0001,-105.4132,12.0,G
+Lost Souls,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106279101/lost-souls,1.7,"Trad, Sport",5.8,1.0,100.0,39.9967,-105.4183,8.0,G
+Unknown with Two Bolts,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107947131/unknown-with-two-bolts,2.0,"Trad, Sport",5.9+,1.0,100.0,39.9967,-105.4183,9.35,G
+Good Vibrations,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105991868/good-vibrations,2.0,"Trad, Sport",5.10-,1.0,75.0,39.9967,-105.4183,10.15,G
+My...Nice Knobs You Have,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832172/mynice-knobs-you-have,1.3,Sport,5.10+,1.0,40.0,39.9967,-105.4183,10.35,G
+Lost In A Lost World,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106292993/lost-in-a-lost-world,2.4,Sport,5.11a,1.0,50.0,39.9967,-105.4183,11.1,G
+Fearless Leader,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105970683/fearless-leader,1.5,Sport,5.11a,1.0,50.0,39.9967,-105.4183,11.1,G
+Am I Right?,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121524102/am-i-right,3.0,Sport,5.11-,1.0,30.0,39.9967,-105.4183,11.15,G
+Salami Mami,Lost Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106866269/salami-mami,2.0,Sport,5.12-,1.0,45.0,39.9967,-105.4183,12.15,G
+Footstool,Couch Fire Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106861021/footstool,1.1,Sport,5.4,1.0,30.0,39.9835,-105.4489,4.0,G
+Recliner,Couch Fire Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106861030/recliner,1.0,Sport,5.10-,1.0,35.0,39.9835,-105.4489,10.15,G
+Sofa Mart,Couch Fire Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106861045/sofa-mart,1.7,Sport,5.11a,1.0,35.0,39.9835,-105.4489,11.1,G
+Loveseat,Couch Fire Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106861060/loveseat,1.9,Sport,5.11d,1.0,35.0,39.9835,-105.4489,11.4,G
+Ottoman Empire,Couch Fire Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106861072/ottoman-empire,2.1,Sport,5.12,1.0,40.0,39.9835,-105.4489,12.0,G
+Couch Fire,Couch Fire Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832580/couch-fire,1.8,Sport,5.13a,1.0,40.0,39.9835,-105.4489,13.1,G
+Lily and the Jack of Hearts,Spasmodic  Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105848073/lily-and-the-jack-of-hearts,1.4,Sport,5.11-,1.0,40.0,40.0038,-105.366,11.15,G
+Splash,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105749938/splash,2.0,"Trad, Sport, TR",5.7,1.0,85.0,40.0034,-105.3959,7.0,G
+Monte Carlo,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107011310/monte-carlo,1.6,Sport,5.7,1.0,40.0,40.0034,-105.3959,7.0,G
+Topless Etiquette,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748256/topless-etiquette,2.2,Sport,5.8,1.0,85.0,40.0034,-105.3959,8.0,G
+Bosch Blanket Bingo,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748232/bosch-blanket-bingo,2.0,Sport,5.9,1.0,60.0,40.0034,-105.3959,9.0,G
+Infestation,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106940855/infestation,1.7,"Trad, Sport",5.9,1.0,60.0,40.0034,-105.3959,9.0,G
+Devin's Dihedral,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748241/devins-dihedral,2.4,"Trad, Sport, TR",5.9+ R,1.0,60.0,40.0034,-105.3959,9.35,R
+Beach Bum,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105822851/beach-bum,1.8,"Trad, Sport, TR",5.9+,1.0,60.0,40.0034,-105.3959,9.35,G
+Birthday Suit,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748250/birthday-suit,1.6,"Trad, Sport, TR",5.10a,1.0,60.0,40.0034,-105.3959,10.1,G
+New Lease on Life,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748214/new-lease-on-life,1.7,Sport,5.10a,1.0,50.0,40.0034,-105.3959,10.1,G
+Le Nouveau Riche,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748897/le-nouveau-riche,2.1,"Trad, Sport, TR",5.10b/c PG13,1.0,85.0,40.0034,-105.3959,10.25,PG13
+Sea Breeze,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748229/sea-breeze,2.4,Sport,5.11a,1.0,60.0,40.0034,-105.3959,11.1,G
+The Minstrel,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748223/the-minstrel,1.6,Sport,5.11a,1.0,60.0,40.0034,-105.3959,11.1,G
+Silver Glide,The Riviera > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748259/silver-glide,1.9,Sport,5.11b,1.0,60.0,40.0034,-105.3959,11.2,G
+Night Moves,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106311078/night-moves,1.3,"Trad, Sport",5.7,1.0,60.0,40.0035,-105.3964,7.0,G
+Tool King,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105935178/tool-king,1.8,"Trad, Sport",5.8,1.0,60.0,40.0035,-105.3964,8.0,G
+Dan's Line,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105933907/dans-line,2.1,Sport,5.8,1.0,100.0,40.0035,-105.3964,8.0,G
+It's Time For Change,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106341750/its-time-for-change,2.2,"Trad, Sport",5.8,1.0,90.0,40.0035,-105.3964,8.0,G
+Trick or Treat,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106294434/trick-or-treat,2.0,"Trad, Sport",5.8,1.0,100.0,40.0035,-105.3964,8.0,G
+Group Therapy,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106294459/group-therapy,2.0,Sport,5.8,1.0,100.0,40.0035,-105.3964,8.0,G
+Left-Handed Tool,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106799068/left-handed-tool,1.5,"Trad, Sport",5.8,1.0,70.0,40.0035,-105.3964,8.0,G
+Where's Ray?,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105882601/wheres-ray,1.8,Sport,5.8,1.0,60.0,40.0035,-105.3964,8.0,G
+Diamonds and Rust,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106311070/diamonds-and-rust,1.9,Sport,5.8+,1.0,80.0,40.0035,-105.3964,8.35,G
+Hold The Line,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105931317/hold-the-line,2.3,Sport,5.9,1.0,100.0,40.0035,-105.3964,9.0,G
+Backdoor Slider,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120861418/backdoor-slider,2.0,Sport,5.9,1.0,90.0,40.0035,-105.3964,9.0,G
+High Hard One,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106301291/high-hard-one,1.9,Sport,5.9+,1.0,80.0,40.0035,-105.3964,9.35,G
+Dihedral Variation,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763917/dihedral-variation,2.1,"Trad, Sport",5.10a,1.0,100.0,40.0035,-105.3964,10.1,G
+Puff Daddy,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105933938/puff-daddy,2.6,Sport,5.10a,1.0,65.0,40.0035,-105.3964,10.1,G
+Bihedral Arete,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757414/bihedral-arete,3.0,"Trad, Sport",5.10a,2.0,180.0,40.0035,-105.3964,10.1,G
+Flags of Our Fathers,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105882606/flags-of-our-fathers,2.5,"Trad, Sport",5.10a,3.0,200.0,40.0035,-105.3964,10.1,G
+A Fly in the Ointment,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106089997/a-fly-in-the-ointment,1.8,"Trad, Sport",5.10b,1.0,60.0,40.0035,-105.3964,10.2,G
+Rhodian Shores,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758116/rhodian-shores,2.7,Sport,5.10b,1.0,100.0,40.0035,-105.3964,10.2,G
+Oh Boy,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107874463/oh-boy,1.8,"Trad, Sport",5.10c,1.0,80.0,40.0035,-105.3964,10.3,G
+Fat Tuesday,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106562457/fat-tuesday,1.7,"Trad, Sport",5.10+,1.0,90.0,40.0035,-105.3964,10.35,G
+Flesh Eating Flies,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832846/flesh-eating-flies,1.0,Sport,5.11a,1.0,60.0,40.0035,-105.3964,11.1,G
+Blood Diamond,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106561362/blood-diamond,2.0,Sport,5.11c,1.0,80.0,40.0035,-105.3964,11.3,G
+AHR,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106069654/ahr,2.5,Sport,5.11c/d,1.0,70.0,40.0035,-105.3964,11.35,G
+Sands of Iwo Jima,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106039762/sands-of-iwo-jima,2.9,Sport,5.11d,1.0,50.0,40.0035,-105.3964,11.4,G
+Edge of Reality,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759912/edge-of-reality,1.5,Sport,5.12a/b R,1.0,60.0,40.0035,-105.3964,12.15,R
+Pariah,The Bihedral (Upper Tier) > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105936123/pariah,2.0,Sport,5.12b,1.0,80.0,40.0035,-105.3964,12.2,G
+Twisted,The Left Side > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105882264/twisted,1.5,"Trad, Sport",5.9- PG13,1.0,90.0,40.0038,-105.3973,9.15,PG13
+What's Wrong with Parents Today,The Left Side > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757432/whats-wrong-with-parents-today,2.0,"Trad, Sport",5.11a,1.0,90.0,40.0038,-105.3973,11.1,G
+Slight of Hand,The Left Side > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106428433/slight-of-hand,1.5,"Trad, Sport",5.11b,1.0,70.0,40.0038,-105.3973,11.2,G
+Quick Work,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106700923/quick-work,1.0,Sport,5.7,1.0,30.0,40.0035,-105.3966,7.0,G
+March Madness,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106699787/march-madness,1.3,Sport,5.9-,1.0,95.0,40.0035,-105.3966,9.15,G
+Git 'Er Done,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106700919/git-er-done,1.3,Sport,5.9,1.0,30.0,40.0035,-105.3966,9.0,G
+Like a Wonk,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105947793/like-a-wonk,1.4,"Trad, Sport",5.9,2.0,120.0,40.0035,-105.3966,9.0,G
+Botonga,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759915/botonga,1.8,Sport,5.9,1.0,40.0,40.0035,-105.3966,9.0,G
+Where's Ron,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106705679/wheres-ron,1.3,Sport,5.10a,1.0,90.0,40.0035,-105.3966,10.1,G
+Hound's Tooth,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105944966/hounds-tooth,2.1,Sport,5.10a,1.0,80.0,40.0035,-105.3966,10.1,G
+Canine Corner,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105944970/canine-corner,1.8,Sport,5.10a,1.0,75.0,40.0035,-105.3966,10.1,G
+Beer Dog,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105936819/beer-dog,1.6,Sport,5.10a,1.0,90.0,40.0035,-105.3966,10.1,G
+Wonky,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106056353/wonky,1.3,"Trad, Sport",5.10+,1.0,60.0,40.0035,-105.3966,10.35,G
+Brace for Impact,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106651151/brace-for-impact,2.0,"Trad, Sport",5.11a,1.0,50.0,40.0035,-105.3966,11.1,G
+Leave No Trace,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105952867/leave-no-trace,1.9,"Trad, Sport",5.11a,1.0,50.0,40.0035,-105.3966,11.1,G
+Free at Last,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105953937/free-at-last,2.0,"Trad, Sport",5.11c,1.0,120.0,40.0035,-105.3966,11.3,G
+Tinnitus,The Lower Tier > The Bihedral Area > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106689463/tinnitus,2.0,Sport,5.11c/d,1.0,60.0,40.0035,-105.3966,11.35,G
+Edges and Ledges,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105870616/edges-and-ledges,2.5,Sport,5.8,1.0,80.0,40.0046,-105.4065,8.0,G
+My Way,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105870891/my-way,2.0,"Trad, Sport",5.9,1.0,80.0,40.0046,-105.4065,9.0,G
+Brand New Bosch,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105873216/brand-new-bosch,1.7,Sport,5.9,1.0,85.0,40.0046,-105.4065,9.0,G
+Party Time!,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105873860/party-time,1.7,"Trad, Sport",5.9,1.0,100.0,40.0046,-105.4065,9.0,G
+The Ride,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105877444/the-ride,1.4,"Trad, Sport",5.10a,1.0,70.0,40.0046,-105.4065,10.1,G
+Where's Bob?,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105868666/wheres-bob,2.0,"Trad, Sport",5.10-,1.0,50.0,40.0046,-105.4065,10.15,G
+Colorado Senior Open,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106005961/colorado-senior-open,2.3,"Trad, Sport",5.10-,1.0,60.0,40.0046,-105.4065,10.15,G
+Sunlight Arete,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105883313/sunlight-arete,2.0,Sport,5.10b,1.0,50.0,40.0046,-105.4065,10.2,G
+Giggity-Giggity,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111838189/giggity-giggity,1.0,Sport,5.10c,1.0,70.0,40.0046,-105.4065,10.3,G
+Family Guy,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106024420/family-guy,2.0,"Trad, Sport",5.11-,1.0,70.0,40.0046,-105.4065,11.15,G
+Same As It  Ever Was,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106005603/same-as-it-ever-was,2.0,"Trad, Sport",5.11a/b,1.0,70.0,40.0046,-105.4065,11.15,G
+La Lune,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105990490/la-lune,3.0,Sport,5.13a,1.0,45.0,40.0046,-105.4065,13.1,G
+Haiku,Boulder Slips > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113903226/haiku,3.3,Sport,5.14a,1.0,40.0,40.0046,-105.4065,14.1,G
+I Looked at That!,Across From Mind Shaft Cliff Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760440/i-looked-at-that,,Sport,5.11c/d,1.0,60.0,40.0024,-105.4102,11.35,G
+Nobody's Fool,Above Tower of Babel > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760923/nobodys-fool,2.0,Sport,5.10d,1.0,60.0,40.0029,-105.4079,10.4,G
+Right Side,Across From Cenotaph aka Sea of Tranquility > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105862848/right-side,1.0,"Trad, Sport",5.8+,1.0,130.0,39.9757,-105.4599,8.35,G
+Sick Diley,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112427561/sick-diley,1.2,Sport,5.10a,1.0,45.0,40.0034,-105.4123,10.1,G
+Schlock and Vice,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112427542/schlock-and-vice,1.5,Sport,5.10c,1.0,40.0,40.0034,-105.4123,10.3,G
+Liberty Dipped,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/112427580/liberty-dipped,1.7,Sport,5.10c,1.0,45.0,40.0034,-105.4123,10.3,G
+Claim Jumper,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106142952/claim-jumper,1.6,Sport,5.10c,1.0,,40.0034,-105.4123,10.3,G
+Freedom Fried,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106667783/freedom-fried,3.0,Sport,5.11b PG13,1.0,60.0,40.0034,-105.4123,11.2,PG13
+Grubstake,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106667770/grubstake,2.0,Sport,5.11b,1.0,50.0,40.0034,-105.4123,11.2,G
+Theoretically Possible,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/118656602/theoretically-possible,2.0,Sport,5.11 PG13,1.0,45.0,40.0034,-105.4123,11.0,PG13
+The Usual Suspects,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105863437/the-usual-suspects,1.8,"Sport, TR",5.11c,1.0,60.0,40.0034,-105.4123,11.3,G
+Corporate Citizen,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/113807859/corporate-citizen,2.5,Sport,5.11c/d,1.0,,40.0034,-105.4123,11.35,G
+Harrassment,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105863462/harrassment,1.8,"Sport, TR",5.12,1.0,70.0,40.0034,-105.4123,12.0,G
+Playing Shark With Chrissy,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106042347/playing-shark-with-chrissy,0.7,Sport,5.12b/c,1.0,35.0,40.0034,-105.4123,12.25,G
+Brat Slamet,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105886628/brat-slamet,1.9,Sport,5.12c,1.0,25.0,40.0034,-105.4123,12.3,G
+Guilty As Charged,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/115378492/guilty-as-charged,3.0,Sport,5.13a/b,1.0,70.0,40.0034,-105.4123,13.15,G
+The Holdup,The Hideout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106150494/the-holdup,3.7,Sport,5.13d,1.0,35.0,40.0034,-105.4123,13.4,G
+Neuromuscular Toxin,Tungsten Mine Shaft > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106160457/neuromuscular-toxin,2.7,Sport,5.12b,1.0,30.0,40.0025,-105.4133,12.2,G
+Heart of Darkness,Tungsten Mine Shaft > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751534/heart-of-darkness,2.2,Sport,5.13,1.0,,40.0025,-105.4133,13.0,G
+Mosquito Burrito,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748448/mosquito-burrito,2.7,"Sport, TR",5.8+,1.0,105.0,40.00238,-105.41307,8.35,G
+Bowling Ball and Chain,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752557/bowling-ball-and-chain,1.1,"Sport, TR",5.9,1.0,,40.00238,-105.41307,9.0,G
+Frothing Green,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753601/frothing-green,1.5,Sport,5.10c,1.0,110.0,40.00238,-105.41307,10.3,G
+Oil Pan Hook Shot,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752554/oil-pan-hook-shot,1.4,"Sport, TR",5.10d,1.0,,40.00238,-105.41307,10.4,G
+Bad Girls Get Spanked,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752563/bad-girls-get-spanked,2.5,"Sport, TR",5.11b,1.0,,40.00238,-105.41307,11.2,G
+Midge Squadron,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764451/midge-squadron,2.4,Sport,5.11b/c,1.0,90.0,40.00238,-105.41307,11.25,G
+Take the Termites Bowling,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752287/take-the-termites-bowling,2.1,Sport,5.11b/c,1.0,,40.00238,-105.41307,11.25,G
+Lucky Strike,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759408/lucky-strike,1.9,Sport,5.11c R,1.0,100.0,40.00238,-105.41307,11.3,R
+Meteor Rhoadblock,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751531/meteor-rhoadblock,3.0,Sport,5.12a/b,1.0,,40.00238,-105.41307,12.15,G
+Next to Nothing,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105758056/next-to-nothing,2.6,Sport,5.12b,2.0,60.0,40.00238,-105.41307,12.2,G
+Super Bon Bon,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108026912/super-bon-bon,2.3,Sport,5.12b/c,1.0,50.0,40.00238,-105.41307,12.25,G
+Shiny Dog,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752290/shiny-dog,2.5,Sport,5.12c,1.0,,40.00238,-105.41307,12.3,G
+Amazing Face,Main Crag > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105751528/amazing-face,2.7,Sport,5.12c,2.0,,40.00238,-105.41307,12.3,G
+Dry Run,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762981/dry-run,1.5,Sport,5.9,1.0,30.0,40.0021,-105.4127,9.0,G
+Splitting Hares,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760332/splitting-hares,2.3,Sport,5.10a,1.0,60.0,40.0021,-105.4127,10.1,G
+Curb Service,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764409/curb-service,1.5,Sport,5.10,1.0,50.0,40.0021,-105.4127,10.0,G
+Happy Ending,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762984/happy-ending,2.0,Sport,5.10,1.0,50.0,40.0021,-105.4127,10.0,G
+Donnybrook,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117586448/donnybrook,0.6,Sport,5.11a,1.0,,40.0021,-105.4127,11.1,G
+Splitz,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106080715/splitz,1.5,Sport,5.11a R,1.0,40.0,40.0021,-105.4127,11.1,R
+Father Figure,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760224/father-figure,2.3,Sport,5.11b,1.0,50.0,40.0021,-105.4127,11.2,G
+Shady Deal,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763194/shady-deal,2.3,Sport,5.11b/c,1.0,40.0,40.0021,-105.4127,11.25,G
+Centennial,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760278/centennial,2.1,Sport,5.11d,1.0,100.0,40.0021,-105.4127,11.4,G
+Just Like Nebraska,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760356/just-like-nebraska,2.0,Sport,5.11d,1.0,80.0,40.0021,-105.4127,11.4,G
+A Tall Cool One,Lower Right Side > The Bowling Alley > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105748478/a-tall-cool-one,2.7,Sport,5.12a,1.0,40.0,40.0021,-105.4127,12.1,G
+Granby,The Lookout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107315175/granby,1.5,Sport,5.9,1.0,35.0,40.003,-105.4131,9.0,G
+Burnt Toast,The Lookout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111065187/burnt-toast,3.0,Sport,5.11c,1.0,,40.003,-105.4131,11.3,G
+Blue Flame,The Lookout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106160477/blue-flame,2.5,Sport,5.11d,1.0,30.0,40.003,-105.4131,11.4,G
+Armor Plated,The Lookout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105863459/armor-plated,1.0,Sport,5.12,1.0,30.0,40.003,-105.4131,12.0,G
+Dozer Rage,The Lookout > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105764628/dozer-rage,1.7,Sport,5.12d,1.0,50.0,40.003,-105.4131,12.4,G
+Hound Dog,Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105750661/hound-dog,3.4,Sport,5.11a,1.0,,40.0011,-105.413,11.1,G
+Bell Buster,Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106894795/bell-buster,1.9,Sport,5.11a,1.0,70.0,40.0011,-105.413,11.1,G
+Bell Air,Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105763356/bell-air,1.5,"Trad, Sport",5.11b/c,2.0,190.0,40.0011,-105.413,11.25,G
+The Purpose,Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106036023/the-purpose,2.3,"Trad, Sport",5.12,1.0,75.0,40.0011,-105.413,12.0,G
+Mystery Arete,Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120484167/mystery-arete,2.0,Sport,5.12c PG13,1.0,80.0,40.0011,-105.413,12.3,PG13
+Tiempos de Ceguera (Times of Blindness),Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106034755/tiempos-de-ceguera-times-of-blindness,3.8,Sport,5.13b,1.0,70.0,40.0011,-105.413,13.2,G
+Freak on a Leash,Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106214655/freak-on-a-leash,3.5,Sport,5.13b,1.0,,40.0011,-105.413,13.2,G
+Verve,Bell Buttress - Main Crag > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759741/verve,3.4,Sport,5.13c,1.0,80.0,40.0011,-105.413,13.3,G
+Gish,Aquarium Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757309/gish,2.6,Sport,5.10a,1.0,110.0,40.0012,-105.413,10.1,G
+Justin Alf Memorial Route,Aquarium Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105757798/justin-alf-memorial-route,1.0,"Trad, Sport",5.10d,1.0,100.0,40.0012,-105.413,10.4,G
+Nowhere Man,Aquarium Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759891/nowhere-man,2.2,Sport,5.11b/c,1.0,70.0,40.0012,-105.413,11.25,G
+Huck Finn,Aquarium Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759903/huck-finn,3.0,Sport,5.11c/d,1.0,70.0,40.0012,-105.413,11.35,G
+The Future of Life,Aquarium Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759942/the-future-of-life,2.6,Sport,5.11d,1.0,60.0,40.0012,-105.413,11.4,G
+Lichen Has Feelings Too!,Aquarium Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105759963/lichen-has-feelings-too,1.0,Sport,5.11d,1.0,80.0,40.0012,-105.413,11.4,G
+Bell Bottom,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105875866/bell-bottom,2.0,Sport,5.9,1.0,60.0,40.0012,-105.413,9.0,G
+Bell Bottom Blues,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105875879/bell-bottom-blues,1.7,Sport,5.11a/b,1.0,55.0,40.0012,-105.413,11.15,G
+For Whom the Bell Tolls,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105753487/for-whom-the-bell-tolls,2.0,Sport,5.11b,1.0,,40.0012,-105.413,11.2,G
+Bottom Feeder,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752977/bottom-feeder,1.0,"Trad, Sport",5.11b,1.0,,40.0012,-105.413,11.2,G
+Carrying Futons,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752995/carrying-futons,1.7,Sport,5.11c,1.0,,40.0012,-105.413,11.3,G
+The War on Peace,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752941/the-war-on-peace,2.8,Sport,5.12a,1.0,,40.0012,-105.413,12.1,G
+Clyde's Big Adventure,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106146935/clydes-big-adventure,1.8,Sport,5.12a,1.0,50.0,40.0012,-105.413,12.1,G
+Antebellum,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752971/antebellum,2.0,"Trad, Sport, TR",5.12a,1.0,,40.0012,-105.413,12.1,G
+Underbelly,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105752974/underbelly,0.8,"Trad, Sport",5.12a,1.0,,40.0012,-105.413,12.1,G
+Poolside,The Patio > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105762630/poolside,1.5,Sport,5.12c,1.0,40.0,40.0012,-105.413,12.3,G
+Hambanger,Bean Liquor Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760764/hambanger,2.3,Sport,5.10,1.0,70.0,40.0012,-105.413,10.0,G
+We Bean Jammin' aka Eat The Rich,Bean Liquor Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760770/we-bean-jammin-aka-eat-the-rich,1.7,Sport,5.11b,1.0,70.0,40.0012,-105.413,11.2,G
+Bean Bagger,Bean Liquor Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105832762/bean-bagger,1.7,Sport,5.11b,1.0,60.0,40.0012,-105.413,11.2,G
+Beano Hangover,Bean Liquor Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760773/beano-hangover,1.0,Sport,5.12a,1.0,,40.0012,-105.413,12.1,G
+Nice Doggie,Bean Liquor Wall > Bell Buttress Massif > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105760767/nice-doggie,2.0,Sport,5.12a,1.0,,40.0012,-105.413,12.1,G
+Dary Design,Boulder Falls East > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/105976482/dary-design,1.0,Sport,5.11c/d,1.0,,40.00565,-105.40638,11.35,G
+Tricks are for Kids,Canyon Block > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106200631/tricks-are-for-kids,3.0,"Trad, Sport",5.12a/b,1.0,40.0,40.00503,-105.3649,12.15,G
+Wallflower,Canyon Block > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107322235/wallflower,3.0,Sport,5.12b,1.0,40.0,40.00503,-105.3649,12.2,G
+The Cat's Meow,Long Walk Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106371869/the-cats-meow,1.0,Sport,5.9+,1.0,50.0,40.00911,-105.3649,9.35,G
+Tiger Paw,Long Walk Rock > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/106371573/tiger-paw,1.0,Sport,5.11,1.0,50.0,40.00911,-105.3649,11.0,G
+Cassandra Crossing,Interloper Wall > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/107143313/cassandra-crossing,3.5,Sport,5.11b,1.0,70.0,40.0024,-105.4102,11.2,G
+Edgy,Huck's Fins aka Sun Dial Crag (submitted as Fin Land) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108416910/edgy,2.8,Sport,5.9+,1.0,65.0,39.99866,-105.41909,9.35,G
+Ear Rings,Huck's Fins aka Sun Dial Crag (submitted as Fin Land) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108416864/ear-rings,2.2,Sport,5.10a,1.0,55.0,39.99866,-105.41909,10.1,G
+Overhanging Left-Leaning Arete,Huck's Fins aka Sun Dial Crag (submitted as Fin Land) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108416830/overhanging-left-leaning-arete,2.5,Sport,5.11a,1.0,30.0,39.99866,-105.41909,11.1,G
+"Short, Overhanging Face",Huck's Fins aka Sun Dial Crag (submitted as Fin Land) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108416809/short-overhanging-face,2.0,Sport,5.12,1.0,25.0,39.99866,-105.41909,12.0,G
+Totem Pole (submitted as Hard Up),Huck's Fins aka Sun Dial Crag (submitted as Fin Land) > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/108416918/totem-pole-submitted-as-hard-up,1.0,Sport,5.12+,1.0,20.0,39.99866,-105.41909,12.35,G
+Poison Ivy,Poison Ivy Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/111180008/poison-ivy,1.0,"Sport, TR",5.5,1.0,65.0,40.00546,-105.39437,5.0,G
+Ghost Duster,Ghost Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117832259/ghost-duster,1.7,Sport,5.11+,1.0,40.0,40.00573,-105.33834,11.35,G
+Ghost,Ghost Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/117832244/ghost,3.0,Sport,5.12b,1.0,40.0,40.00573,-105.33834,12.2,G
+Ghost Rider,Ghost Crag > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/119570539/ghost-rider,3.0,Sport,5.12b,1.0,50.0,40.00573,-105.33834,12.2,G
+Rathtars,West Face > Kanjiklub > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120193097/rathtars,2.0,Sport,5.8+,1.0,65.0,40.00449,-105.39654,8.35,G
+Tasu Leech Right,West Face > Kanjiklub > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120193557/tasu-leech-right,1.3,Sport,5.10-,1.0,45.0,40.00449,-105.39654,10.15,G
+Tasu Leech,West Face > Kanjiklub > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120966495/tasu-leech,2.0,Sport,5.11c,1.0,60.0,40.00449,-105.39654,11.3,G
+Bata-Tic,South Face > Kanjiklub > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120966484/bata-tic,2.0,Sport,5.9,1.0,45.0,40.00444,-105.39646,9.0,G
+Headspace,Claim Jumper > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120351106/headspace,1.0,Sport,5.9,1.0,50.0,40.00357,-105.39823,9.0,G
+Wakazashi,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120677143/wakazashi,1.0,Sport,5.9,1.0,,40.00619,-105.40002,9.0,G
+Jack O' Lantern,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120677237/jack-o-lantern,1.0,Sport,5.10a,1.0,,40.00619,-105.40002,10.1,G
+Puzzle Pieces,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120617193/puzzle-pieces,1.0,Sport,5.11b,1.0,30.0,40.00619,-105.40002,11.2,G
+Spooky Tooth,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120677164/spooky-tooth,2.0,Sport,5.11,1.0,,40.00619,-105.40002,11.0,G
+Karate Chop,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120677118/karate-chop,1.0,Sport,5.11b/c,1.0,,40.00619,-105.40002,11.25,G
+Gremlin,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120677208/gremlin,2.0,Sport,5.11c,1.0,,40.00619,-105.40002,11.3,G
+Daddy Long Legs,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120677185/daddy-long-legs,1.0,Sport,5.11d,1.0,,40.00619,-105.40002,11.4,G
+Unknown 11d,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120677303/unknown-11d,2.0,Sport,5.11d,1.0,,40.00619,-105.40002,11.4,G
+Jump Start,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120617185/jump-start,1.5,Sport,5.12b,1.0,25.0,40.00619,-105.40002,12.2,G
+Power O,Glacier Dome > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/120617173/power-o,2.5,Sport,5.12c,1.0,25.0,40.00619,-105.40002,12.3,G
+Wunderhund,G-Land > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121813426/wunderhund,3.0,Sport,5.10+,1.0,45.0,39.99683,-105.41577,10.35,G
+Corgi Wolf,G-Land > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121727927/corgi-wolf,3.0,Sport,5.11+,1.0,30.0,39.99683,-105.41577,11.35,G
+Valhallahund,G-Land > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/121878706/valhallahund,3.0,Sport,5.12a,1.0,40.0,39.99683,-105.41577,12.1,G
+Serps Up,Serpent's Den > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/122265577/serps-up,3.0,Sport,5.13b,1.0,25.0,40.00239,-105.41014,13.2,G
+Aqueduct,Aqueduct Outcrop > Boulder Canyon > Boulder > Colorado,https://www.mountainproject.com/route/122464430/aqueduct,2.0,Sport,5.12a,1.0,50.0,39.97527,-105.4608,12.1,G
